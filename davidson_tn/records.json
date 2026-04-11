@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T17:22:42Z",
+  "fetched_at": "2026-04-11T17:27:34Z",
   "source": "Davidson County",
   "county": "Davidson",
   "state": "TN",
@@ -29,7 +29,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471864%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -57,7 +57,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471869%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -85,7 +85,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471876%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -113,7 +113,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471892%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -141,7 +141,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471990%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -169,7 +169,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471674%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -197,7 +197,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471685%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -225,7 +225,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471720%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -253,7 +253,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471728%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -281,7 +281,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471747%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -309,7 +309,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471777%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -337,7 +337,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471778%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -365,7 +365,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471798%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -393,7 +393,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471810%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -421,7 +421,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471848%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -449,7 +449,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471522%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -477,7 +477,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471535%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -505,7 +505,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471547%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -533,7 +533,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471558%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -561,7 +561,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471576%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -589,7 +589,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471579%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -617,7 +617,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471581%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -645,7 +645,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471583%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -673,7 +673,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471596%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -701,7 +701,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471605%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -729,7 +729,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471621%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -757,7 +757,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471606%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -785,7 +785,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471631%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -813,7 +813,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471633%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -841,7 +841,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471637%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -869,7 +869,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471639%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -897,7 +897,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471382%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -925,7 +925,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471384%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -953,7 +953,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471442%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -981,7 +981,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471457%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1009,7 +1009,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471487%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1037,7 +1037,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471507%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1065,7 +1065,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471508%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1093,7 +1093,7 @@
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471518%27",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1120,7 +1120,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471865%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1147,7 +1147,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471867%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1174,7 +1174,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471870%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1201,7 +1201,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471871%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1228,7 +1228,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471881%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1255,7 +1255,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471883%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1282,7 +1282,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471884%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1309,7 +1309,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471890%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1336,7 +1336,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471896%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1363,7 +1363,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471899%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1390,7 +1390,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471903%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1417,7 +1417,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471904%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1444,7 +1444,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471906%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1471,7 +1471,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471908%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1498,7 +1498,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471930%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1525,7 +1525,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471944%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1552,7 +1552,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471945%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1579,7 +1579,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471949%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1606,7 +1606,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471958%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1633,7 +1633,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471959%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1660,7 +1660,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471960%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1687,7 +1687,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471961%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1714,7 +1714,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471962%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1741,7 +1741,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471991%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1768,7 +1768,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472000%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1795,7 +1795,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472003%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1822,7 +1822,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472011%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1849,7 +1849,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472012%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1876,7 +1876,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472017%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1903,7 +1903,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472019%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1930,7 +1930,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472020%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1957,7 +1957,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472021%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1984,7 +1984,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472022%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2011,7 +2011,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472023%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2038,7 +2038,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472024%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2065,7 +2065,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471678%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2092,7 +2092,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471682%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2119,7 +2119,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471683%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2146,7 +2146,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471687%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2173,7 +2173,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471688%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2200,7 +2200,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471689%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2227,7 +2227,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471691%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2254,7 +2254,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471700%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2281,7 +2281,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471722%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2308,7 +2308,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471721%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2335,7 +2335,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471723%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2362,7 +2362,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471725%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2389,7 +2389,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471726%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2416,7 +2416,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471727%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2443,7 +2443,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471750%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2470,7 +2470,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471755%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2497,7 +2497,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471764%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2524,7 +2524,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471766%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2551,7 +2551,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471768%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2578,7 +2578,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471771%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2605,7 +2605,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471772%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2632,7 +2632,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471773%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2659,7 +2659,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471779%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2686,7 +2686,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471781%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2713,7 +2713,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471785%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2740,7 +2740,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471787%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2767,7 +2767,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471799%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2794,7 +2794,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471800%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2821,7 +2821,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471801%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2848,7 +2848,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471802%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2875,7 +2875,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471806%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2902,7 +2902,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471807%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2929,7 +2929,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471808%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2956,7 +2956,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471813%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2983,7 +2983,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471814%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3010,7 +3010,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471815%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3037,7 +3037,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471828%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3064,7 +3064,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471831%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3091,7 +3091,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471834%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3118,7 +3118,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471837%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3145,7 +3145,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471838%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3172,7 +3172,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471839%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3199,7 +3199,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471840%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3226,7 +3226,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471841%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3253,7 +3253,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471847%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3280,7 +3280,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471849%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3307,7 +3307,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471857%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3334,7 +3334,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471520%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3361,7 +3361,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471527%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3388,7 +3388,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471539%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3415,7 +3415,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471541%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3442,7 +3442,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471544%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3469,7 +3469,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471551%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3496,7 +3496,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471556%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3523,7 +3523,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471561%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3550,7 +3550,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471565%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3577,7 +3577,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471566%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3604,7 +3604,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471567%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3631,7 +3631,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471568%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3658,7 +3658,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471570%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3685,7 +3685,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471571%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3712,7 +3712,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471572%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3739,7 +3739,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471573%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3766,7 +3766,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471575%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3793,7 +3793,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471577%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3820,7 +3820,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471582%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3847,7 +3847,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471584%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3874,7 +3874,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471585%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3901,7 +3901,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471588%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3928,7 +3928,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471592%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3955,7 +3955,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471626%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3982,7 +3982,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471630%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4009,7 +4009,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471607%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4036,7 +4036,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471632%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4063,7 +4063,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471635%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4090,7 +4090,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471636%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4117,7 +4117,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471640%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4144,7 +4144,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471647%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4171,7 +4171,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471642%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4198,7 +4198,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471648%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4225,7 +4225,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471649%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4252,7 +4252,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471650%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4279,7 +4279,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471651%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4306,7 +4306,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471654%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4333,7 +4333,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471656%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4360,7 +4360,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471658%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4387,7 +4387,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471661%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4414,7 +4414,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471664%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4441,7 +4441,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471666%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4468,7 +4468,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471669%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4495,7 +4495,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471376%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4522,7 +4522,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471380%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4549,7 +4549,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471383%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4576,7 +4576,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471386%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4603,7 +4603,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471387%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4630,7 +4630,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471388%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4657,7 +4657,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471389%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4684,7 +4684,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471390%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4711,7 +4711,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471391%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4738,7 +4738,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471392%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4765,7 +4765,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471394%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4792,7 +4792,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471395%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4819,7 +4819,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471397%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4846,7 +4846,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471398%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4873,7 +4873,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471400%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4900,7 +4900,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471402%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4927,7 +4927,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471403%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4954,7 +4954,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471414%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4981,7 +4981,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471415%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5008,7 +5008,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471417%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5035,7 +5035,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471420%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5062,7 +5062,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471421%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5089,7 +5089,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471422%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5116,7 +5116,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471423%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5143,7 +5143,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471430%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5170,7 +5170,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471432%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5197,7 +5197,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471433%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5224,7 +5224,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471434%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5251,7 +5251,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471435%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5278,7 +5278,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471438%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5305,7 +5305,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471456%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5332,7 +5332,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471458%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5359,7 +5359,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471459%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5386,7 +5386,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471460%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5413,7 +5413,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471478%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5440,7 +5440,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471481%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5467,7 +5467,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471488%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5494,7 +5494,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471506%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5521,7 +5521,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471509%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5548,7 +5548,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471511%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5575,7 +5575,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471517%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5602,7 +5602,7 @@
       "flags": [
         "New this week"
       ],
-      "clerk_url": "",
+      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471519%27",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",

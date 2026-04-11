@@ -617,6 +617,7 @@
     PRO:            { label: 'Probate',          color: '#10b981', group: 'PROBATE' },
     NOC:            { label: 'Notice of Comm.',  color: '#6b7280', group: 'OTHER' },
     TAXDELINQUENT:  { label: 'Tax Delinquent',   color: '#f59e0b', group: 'TAX' },
+    CODE_VIOLATION: { label: 'Code Violation',   color: '#f97316', group: 'CODES' },
   };
 
   // Group display names for filter buttons
@@ -628,6 +629,7 @@
     LIEN:       'Lien',
     PROBATE:    'Probate',
     OTHER:      'Other',
+    CODES:      'Code Violations',
   };
 
   // ── Load Data ──────────────────────────────────────────
@@ -851,8 +853,8 @@
       const rowClass = score >= 70 ? 'hot' : score >= 40 ? 'warm' : 'cool';
       const cfg      = TYPE_CONFIG[r.doc_type] || { label: r.doc_type, color: '#6b7280' };
 
-      // Type badge
-      const typeBadge = `<span class="type-badge" style="color:${cfg.color};border-color:${cfg.color}33;background:${cfg.color}12">${esc(cfg.label)}</span>`;
+      // Type badge + violation detail sub-line
+      const typeBadge = `<span class="type-badge" style="color:${cfg.color};border-color:${cfg.color}33;background:${cfg.color}12">${esc(cfg.label)}</span>${r.legal ? `<div class="owner-sub" style="margin-top:3px">${esc(r.legal)}</div>` : ''}`;
 
       // Owner
       const ownerHtml = `<div class="owner-name">${esc(r.owner || '—')}</div>
