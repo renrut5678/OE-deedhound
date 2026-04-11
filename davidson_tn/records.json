@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T17:38:10Z",
+  "fetched_at": "2026-04-11T17:41:25Z",
   "source": "Davidson County",
   "county": "Davidson",
   "state": "TN",
@@ -20,10 +20,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 250509",
+      "mail_city": "ATLANTA",
+      "mail_state": "GA",
+      "mail_zip": "30325",
       "legal": "PROHIBITED SIGNS",
       "description": "Prohibited Sign",
       "flags": [
@@ -34,7 +34,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471869",
@@ -49,10 +50,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "601 SCOTLAND ST",
+      "mail_city": "DUNEDIN",
+      "mail_state": "FL",
+      "mail_zip": "34698",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
       "description": "Parking On Grass, Junk, Trash, Debris, Etc.",
       "flags": [
@@ -63,7 +64,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471876",
@@ -78,10 +80,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4210 YANCEY RD",
+      "mail_city": "CHARLOTTE",
+      "mail_state": "NC",
+      "mail_zip": "28217",
       "legal": "PROHIBITED SIGNS",
       "description": "Prohibited Sign",
       "flags": [
@@ -92,7 +94,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471892",
@@ -107,10 +110,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 280",
+      "mail_city": "LYLES",
+      "mail_state": "TN",
+      "mail_zip": "37098",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "GW JTD",
       "flags": [
@@ -121,7 +124,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471990",
@@ -136,10 +140,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "828 W SAGEFIELD DR",
+      "mail_city": "SMYRNA",
+      "mail_state": "TN",
+      "mail_zip": "37167",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Inoperable Motor Vehicle,  Parking On Grass, Junk, Trash, Debris, Etc.,",
       "flags": [
@@ -150,7 +154,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471674",
@@ -165,10 +170,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3213 HIDDEN CREEK DR",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": ",BUILDING AND ZONING PERMIT REQUIRED,USE NOT PERMITTED",
       "description": "Bldg. Permit Req. & Use Not Permitted",
       "flags": [
@@ -179,7 +184,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": ",BUILDING AND ZONING PERMIT REQUIRED,USE NOT PERMITTED"
+      "_violation_type": ",BUILDING AND ZONING PERMIT REQUIRED,USE NOT PERMITTED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471685",
@@ -194,10 +200,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "600 CORPORATE DR STE 105",
+      "mail_city": "FORT LAUDERDALE",
+      "mail_state": "FL",
+      "mail_zip": "33334",
       "legal": "SIGN MAINTENANCE",
       "description": "Dilapidated Sign",
       "flags": [
@@ -208,7 +214,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "SIGN MAINTENANCE"
+      "_violation_type": "SIGN MAINTENANCE",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471720",
@@ -223,10 +230,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37205",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4525 HARDING RD STE 200",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37205",
       "legal": "LIGHTING (EMISSION),LIGHTING (MAX LEVEL)",
       "description": "light inspection",
       "flags": [
@@ -237,7 +244,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "LIGHTING (EMISSION),LIGHTING (MAX LEVEL)"
+      "_violation_type": "LIGHTING (EMISSION),LIGHTING (MAX LEVEL)",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471728",
@@ -252,10 +260,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37205",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2505 21ST AVE S STE 302",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37212",
       "legal": "PROHIBITED SIGNS",
       "description": "Type: Property Violations - Illegal Signs on Private Property  Description:  Illegal flag sign  Additional Comments:",
       "flags": [
@@ -266,7 +274,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471747",
@@ -281,10 +290,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3203 LAKESHORE AVE",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "HIGH WEEDS",
       "description": "HIGH GRASS",
       "flags": [
@@ -295,7 +304,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471777",
@@ -310,10 +320,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37215",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3506 FOX HALL RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37215",
       "legal": "HIGH WEEDS",
       "description": "WEEDS",
       "flags": [
@@ -324,7 +334,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471778",
@@ -339,10 +350,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37215",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3506 FOX HALL RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37215",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "TREE",
       "flags": [
@@ -353,7 +364,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471798",
@@ -368,10 +380,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37210",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1605 14TH AVE N",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37208",
       "legal": "STRP PERMIT REQUIRED",
       "description": "host - no strp",
       "flags": [
@@ -382,7 +394,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "STRP PERMIT REQUIRED"
+      "_violation_type": "STRP PERMIT REQUIRED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471810",
@@ -411,7 +424,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": false
     },
     {
       "doc_num": "CV-26-1471848",
@@ -426,10 +440,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4170 N MARINE DR APT 20K",
+      "mail_city": "CHICAGO",
+      "mail_state": "IL",
+      "mail_zip": "60613",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Residential Complaint  Description:  Abandoned white GMC with flat tires in apartment parking lot  Additional Comments:",
       "flags": [
@@ -440,7 +454,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471522",
@@ -455,10 +470,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "744 N GRANDVIEW AVE C/O SAM FROERER",
+      "mail_city": "COVINA",
+      "mail_state": "CA",
+      "mail_zip": "91723",
       "legal": "PROHIBITED SIGNS",
       "description": "Wind Flag",
       "flags": [
@@ -469,7 +484,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471535",
@@ -484,10 +500,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37214",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 254",
+      "mail_city": "ARRINGTON",
+      "mail_state": "TN",
+      "mail_zip": "37014",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  mattress and bed frame in front yard by the street  Additional Comments:",
       "flags": [
@@ -498,7 +514,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471547",
@@ -513,10 +530,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5127 NOLENSVILLE RD C/O LOUIS CARDENAS",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Caller says businesses here are dumping litter behind the business. Not the grocery store but neighboring businesses.  Additional Comments:",
       "flags": [
@@ -527,7 +544,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471558",
@@ -542,10 +560,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "363 W MAIN ST",
+      "mail_city": "HENDERSONVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37075",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JTD on the property.",
       "flags": [
@@ -556,7 +574,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471576",
@@ -571,10 +590,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "100 MAXWELL CROSSING",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JTD, HGW",
       "flags": [
@@ -585,7 +604,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471579",
@@ -614,7 +634,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "USE NOT PERMITTED"
+      "_violation_type": "USE NOT PERMITTED",
+      "_parcel_matched": false
     },
     {
       "doc_num": "CV-26-1471581",
@@ -629,10 +650,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 354",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
       "description": "IMV, POG, JTD",
       "flags": [
@@ -643,7 +664,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471583",
@@ -658,10 +680,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 41458",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37204",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -672,7 +694,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471596",
@@ -687,10 +710,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "205 30TH ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -701,7 +724,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471605",
@@ -716,10 +740,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "811 GALE LN 315",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37204",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Not cutting they grass  Additional Comments:",
       "flags": [
@@ -730,7 +754,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471621",
@@ -745,10 +770,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "7334 ROLLING RIVER PKWY",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37221",
       "legal": "EXTERIOR PROP AREA \u2013 ACCES STRUCTURES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Front yard is mowed, but backyard has downed branches from the January ice storm and very tall grass/weeds.  Additional Comments:",
       "flags": [
@@ -759,7 +784,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 ACCES STRUCTURES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 ACCES STRUCTURES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471606",
@@ -774,10 +800,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "9307 CONCORD RD",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  vacant lot is overgrown again/has to keep calling every year to have this cut  Additional Comments:",
       "flags": [
@@ -788,7 +814,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471631",
@@ -803,10 +830,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2701 MORGAN RD",
+      "mail_city": "JOELTON",
+      "mail_state": "TN",
+      "mail_zip": "37080",
       "legal": "PROHIBITED SIGNS",
       "description": "PROHIBITED SIGN/WIND",
       "flags": [
@@ -817,7 +844,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471633",
@@ -832,10 +860,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3800 DICKERSON PIKE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "PROHIBITED SIGNS",
       "description": "PROHIBITED SIGN/WIND",
       "flags": [
@@ -846,7 +874,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471637",
@@ -861,10 +890,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "800 19TH AVE S 2030",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37203",
       "legal": "HIGH WEEDS",
       "description": "HIGH GRASS AND WEEDS-HGW",
       "flags": [
@@ -875,7 +904,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471639",
@@ -890,10 +920,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5001 PLAZA ON THE LAKE STE 200",
+      "mail_city": "AUSTIN",
+      "mail_state": "TX",
+      "mail_zip": "78746",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-FURNITURE AT CURB",
       "flags": [
@@ -904,7 +934,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471382",
@@ -919,10 +950,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 92052",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37209",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Tall grass and overgrowth  Additional Comments:",
       "flags": [
@@ -933,7 +964,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471384",
@@ -948,10 +980,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4384 STATE PARK RD",
+      "mail_city": "GREENVILLE",
+      "mail_state": "SC",
+      "mail_zip": "29609",
       "legal": "LANDLORD REGISTRATION,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "PROBLEM REPORTED",
       "flags": [
@@ -962,7 +994,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "LANDLORD REGISTRATION,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "LANDLORD REGISTRATION,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471442",
@@ -977,10 +1010,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1101A N 8TH ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "ACCESSORY STRUCTURES,EXTERIOR REPAIR,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  The occupants of this home moved out in December. The structure has sat unoccupied since then. The garage door has fallen off, the yard is not being maintained, and the back door visible from our back porch is open. There are holes in the exterior and we are concerned the property is both unsecured and not being maintained.  Additional Comments:",
       "flags": [
@@ -991,7 +1024,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "ACCESSORY STRUCTURES,EXTERIOR REPAIR,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "ACCESSORY STRUCTURES,EXTERIOR REPAIR,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471457",
@@ -1006,10 +1040,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "109 KENNER AVE STE 100",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37205",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-FURNITURE AT CURB",
       "flags": [
@@ -1020,7 +1054,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471487",
@@ -1035,10 +1070,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2905 NORTHWEST BLVD STE 150",
+      "mail_city": "MINNEAPOLIS",
+      "mail_state": "MN",
+      "mail_zip": "55441",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "INOPERABLE/UNLICENSED VEHICLE-IMV",
       "flags": [
@@ -1049,7 +1084,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471507",
@@ -1064,10 +1100,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "18653 VENTURA BLVD 267",
+      "mail_city": "TARZANA",
+      "mail_state": "CA",
+      "mail_zip": "91356",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  One of the units constantly puts out furniture, mattresses, and other larger debris. Also went doing renovations, the contractors out the construction materials out back for trash pick up but it\u2019s next picked up.  Additional Comments:",
       "flags": [
@@ -1078,7 +1114,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471508",
@@ -1093,10 +1130,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "105 BONNABROOK DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  We have posted no dumping signs at the dumpster yet every Monday the area is filled with furnature and trash  Additional Comments:",
       "flags": [
@@ -1107,7 +1144,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471518",
@@ -1122,10 +1160,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5421 HIGHWAY 100 #58202",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37205",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Junk and Debris  Description:  Trash trash and more trash  Additional Comments:",
       "flags": [
@@ -1136,7 +1174,8 @@
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471865",
@@ -1151,10 +1190,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "8100 RIDGEWOOD RD",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Junk, Trash, Debris, Etc., Premise Identification",
       "flags": [
@@ -1164,7 +1203,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471867",
@@ -1179,10 +1219,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 293300",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37229",
       "legal": "",
       "description": "Prohibited Sign",
       "flags": [
@@ -1192,7 +1232,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": ""
+      "_violation_type": "",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471870",
@@ -1207,10 +1248,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3033 LAKESHORE DR",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
@@ -1220,7 +1261,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471871",
@@ -1235,10 +1277,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1601 HADELY AVE",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
       "description": "Parking On Grass, Junk, Trash, Debris, Etc.",
       "flags": [
@@ -1248,7 +1290,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471881",
@@ -1263,10 +1306,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1517 NAPLES AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Residential Complaint  Description:  Inoperable vehicle in driveway. Closed previously without remedy  Additional Comments:",
       "flags": [
@@ -1276,7 +1319,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471883",
@@ -1291,10 +1335,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2703 MEADOW ROSE DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "Building Permit Required",
       "description": "Type: Property Violations - Residential Complaint  Description:  Home is currently listed for sale. The listing agent said that all plumbing, electrical/electrical panel and hvac has been updated throughout. Not showing that any of the work has been permitted.  Additional Comments:",
       "flags": [
@@ -1304,7 +1348,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "Building Permit Required"
+      "_violation_type": "Building Permit Required",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471884",
@@ -1319,10 +1364,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "824 OLD HICKORY BLVD",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JTD GW",
       "flags": [
@@ -1332,7 +1377,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471890",
@@ -1347,10 +1393,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4904 RIVERBANK DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -1360,7 +1406,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471896",
@@ -1375,10 +1422,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3407 MAYS ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -1388,7 +1435,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471899",
@@ -1403,10 +1451,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 2013",
+      "mail_city": "HOLLAND",
+      "mail_state": "MI",
+      "mail_zip": "49422",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -1416,7 +1464,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471903",
@@ -1431,10 +1480,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 150802",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37215",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -1444,7 +1493,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471904",
@@ -1459,10 +1509,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "400 SHADYLAKE DR",
+      "mail_city": "LA VERGNE",
+      "mail_state": "TN",
+      "mail_zip": "37086",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -1472,7 +1522,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471906",
@@ -1487,10 +1538,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "301 RAYMOND ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -1500,7 +1551,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471908",
@@ -1515,10 +1567,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3401 KEYSTONE AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -1528,7 +1580,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471930",
@@ -1543,10 +1596,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2701 B MEADOW ROSE DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -1556,7 +1609,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471944",
@@ -1571,10 +1625,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2116 RODMAN BLVD",
+      "mail_city": "GALLATIN",
+      "mail_state": "TN",
+      "mail_zip": "37066",
       "legal": "PARKING ON GRASS",
       "description": "",
       "flags": [
@@ -1584,7 +1638,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471945",
@@ -1599,10 +1654,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "865 LORETTA DR",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
       "description": "Siding missing",
       "flags": [
@@ -1612,7 +1667,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR"
+      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471949",
@@ -1627,10 +1683,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1132 SAHWNEE TRCE",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
       "description": "Siding missing",
       "flags": [
@@ -1640,7 +1696,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR"
+      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471958",
@@ -1655,10 +1712,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "295 OCALA DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -1668,7 +1725,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471959",
@@ -1683,10 +1741,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1304 TUCKAHOE DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "STRP PERMIT REQUIRED",
       "description": "host - no strp",
       "flags": [
@@ -1696,7 +1754,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "STRP PERMIT REQUIRED"
+      "_violation_type": "STRP PERMIT REQUIRED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471960",
@@ -1711,10 +1770,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3432 TOWNSHIP RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-FURNITURE AT CURB",
       "flags": [
@@ -1724,7 +1783,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471961",
@@ -1739,10 +1799,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3317 NEW TOWNE RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-FURNITURE CONSTRUCTION MATERIALS IN YARD",
       "flags": [
@@ -1752,7 +1812,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471962",
@@ -1767,10 +1828,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3248 NEW TOWNE RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-FURNITURE AT CURB",
       "flags": [
@@ -1780,7 +1841,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471991",
@@ -1795,10 +1857,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1011 N GRAYCROFT AVE",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -1808,7 +1870,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472000",
@@ -1823,10 +1886,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "412 HAMBLEN DR",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "pog, imv",
       "flags": [
@@ -1836,7 +1899,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472003",
@@ -1864,7 +1928,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": false
     },
     {
       "doc_num": "CV-26-1472011",
@@ -1879,10 +1944,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1102 ELLISTON ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
@@ -1892,7 +1957,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472012",
@@ -1920,7 +1986,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "ADDRESS ID RESIDENTIAL,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "ADDRESS ID RESIDENTIAL,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": false
     },
     {
       "doc_num": "CV-26-1472017",
@@ -1935,10 +2002,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6009 PANAMA DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "COMMERCIAL TRUCK PARKING,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD COM PARK.",
       "flags": [
@@ -1948,7 +2015,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "COMMERCIAL TRUCK PARKING,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "COMMERCIAL TRUCK PARKING,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472019",
@@ -1963,10 +2031,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3221 LAKESHORE DR",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "high grass and weeds, dilapidated boat",
       "flags": [
@@ -1976,7 +2044,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472020",
@@ -1991,10 +2060,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6011 PANANMA DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "EXTERIOR OF BUILDINGS \u2013 PREMISES ID RES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD PID",
       "flags": [
@@ -2004,7 +2073,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BUILDINGS \u2013 PREMISES ID RES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR OF BUILDINGS \u2013 PREMISES ID RES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472021",
@@ -2019,10 +2089,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6013 PANAMA DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -2032,7 +2102,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472022",
@@ -2047,10 +2118,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2533 BAYVIEW DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -2060,7 +2131,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472023",
@@ -2075,10 +2147,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6023 PANAMA DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -2088,7 +2160,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1472024",
@@ -2116,7 +2189,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "ADDRESS ID RESIDENTIAL,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS"
+      "_violation_type": "ADDRESS ID RESIDENTIAL,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "_parcel_matched": false
     },
     {
       "doc_num": "CV-26-1471678",
@@ -2131,10 +2205,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6815 POPLAR AVE 500 C/O MAA SCHINDLER #010088",
+      "mail_city": "GERMANTOWN",
+      "mail_state": "TN",
+      "mail_zip": "38138",
       "legal": "EXTERMINATION \u2013 MULTIPLE OCCUPANCY,EXTERMINATION REQUIRED",
       "description": "Type: Property Violations - Tenant Complaint  Description:  Mice and cockroaches  Additional Comments:  6154852450",
       "flags": [
@@ -2144,7 +2218,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERMINATION \u2013 MULTIPLE OCCUPANCY,EXTERMINATION REQUIRED"
+      "_violation_type": "EXTERMINATION \u2013 MULTIPLE OCCUPANCY,EXTERMINATION REQUIRED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471682",
@@ -2159,10 +2234,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "450 S ORANGE AVE STE 900 C/O GENERAL COU",
+      "mail_city": "ORLANDO",
+      "mail_state": "FL",
+      "mail_zip": "32801",
       "legal": "",
       "description": "Sign Permits & Prohibited Signs",
       "flags": [
@@ -2172,7 +2247,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": ""
+      "_violation_type": "",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471683",
@@ -2187,10 +2263,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "327 BLACKMAN RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Overgrown grass and weeds, an eyesore  Additional Comments:",
       "flags": [
@@ -2200,7 +2276,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471687",
@@ -2215,10 +2292,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "701 BRENT GLEN PL",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Pile of junk and trash left in driveway. It\u2019s been there for almost 2 weeks.  Additional Comments:",
       "flags": [
@@ -2228,7 +2305,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471688",
@@ -2243,10 +2321,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "612 KEETON AVE",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Junk and Debris  Description:  There are a minimum of 6 cars, most do not run in the driveway and on the street for years.   Debris on the porch, yard and street  Additional Comments:",
       "flags": [
@@ -2256,7 +2334,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471689",
@@ -2271,10 +2350,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5434 BELL FORGE LN E",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "SIGN MAINTENANCE",
       "description": "Dilapidated Sign",
       "flags": [
@@ -2284,7 +2363,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "SIGN MAINTENANCE"
+      "_violation_type": "SIGN MAINTENANCE",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471691",
@@ -2299,10 +2379,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2645 DELK AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37208",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -2312,7 +2392,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471700",
@@ -2327,10 +2408,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1301 EWING CREEK DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Neighbor complaint about the trash and garbage on side of unit. Resident been asked to remove the junk.  Additional Comments:",
       "flags": [
@@ -2340,7 +2421,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471722",
@@ -2355,10 +2437,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4909 MONTCLAIR DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -2368,7 +2450,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471721",
@@ -2383,10 +2466,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1272 CHAPMANS RETREAT DR",
+      "mail_city": "SPRING HILL",
+      "mail_state": "TN",
+      "mail_zip": "37174",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -2396,7 +2479,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471723",
@@ -2411,10 +2495,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "401 FIELDCREST DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -2424,7 +2508,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471725",
@@ -2439,10 +2524,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37214",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "95 SHORT DR",
+      "mail_city": "MOUNT JULIET",
+      "mail_state": "TN",
+      "mail_zip": "37122",
       "legal": "USE NOT PERMITTED",
       "description": "Type: Property Violations - Home Occupation Reporting  Description:  Keith's automotive working at this location.   Cars are at rear of property  Additional Comments:  Wreckers in and out all hours of the day",
       "flags": [
@@ -2452,7 +2537,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "USE NOT PERMITTED"
+      "_violation_type": "USE NOT PERMITTED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471726",
@@ -2467,10 +2553,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37216",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "471 OWL DR",
+      "mail_city": "LEBANON",
+      "mail_state": "TN",
+      "mail_zip": "37087",
       "legal": "SIGNS  \u2013 PROHIBITED - WIND",
       "description": "Wind Sign",
       "flags": [
@@ -2480,7 +2566,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "SIGNS  \u2013 PROHIBITED - WIND"
+      "_violation_type": "SIGNS  \u2013 PROHIBITED - WIND",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471727",
@@ -2495,10 +2582,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6405 PADDINGTON WAY",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Junk and Debris  Description:  6-7 cars being worked on the do not work  Additional Comments:",
       "flags": [
@@ -2508,7 +2595,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471750",
@@ -2523,10 +2611,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3045 LAKESHORE DR",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
       "description": "PARKING ON THE GRASS, OPEN STORAGE",
       "flags": [
@@ -2536,7 +2624,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471755",
@@ -2551,10 +2640,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37210",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "701 S 6TH ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "TRASH RUNNING  OVER ON THE PROPERTY,  FURNITURE BY THE DUMPSTERS AND DOG POOP ON THE BREEZE WAYS.",
       "flags": [
@@ -2564,7 +2653,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471764",
@@ -2579,10 +2669,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37218",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1016 B ALICE ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37218",
       "legal": "STRP PERMIT REQUIRED",
       "description": "28 nights",
       "flags": [
@@ -2592,7 +2682,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "STRP PERMIT REQUIRED"
+      "_violation_type": "STRP PERMIT REQUIRED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471766",
@@ -2607,10 +2698,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "333 BELL RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Public Safety - Abandoned Vehicles  Description:  There are junk cars parking under the covered driveway of this residence. Have flats. It appears there are three junk cars there  Additional Comments:",
       "flags": [
@@ -2620,7 +2711,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471768",
@@ -2635,10 +2727,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "289 BELL RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Public Safety - Abandoned Vehicles  Description:  There are two junk cars with flat tires in the driveway of this home. One is gold and the other is a red color. There are also cars being parked on the front lawn of the home.  Additional Comments:",
       "flags": [
@@ -2648,7 +2740,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471771",
@@ -2663,10 +2756,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "277 BELL RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  There are cars parking in the front yard on the grass of this home.  Additional Comments:",
       "flags": [
@@ -2676,7 +2769,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471772",
@@ -2691,10 +2785,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "213 RYBURN DR",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR PROP AREA \u2013 TRAILERS WATERCRAFT,HIGH WEEDS",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  construction trailer has been parked in the front yard at this address for over a month  Additional Comments:",
       "flags": [
@@ -2704,7 +2798,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR PROP AREA \u2013 TRAILERS WATERCRAFT,HIGH WEEDS"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR PROP AREA \u2013 TRAILERS WATERCRAFT,HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471773",
@@ -2719,10 +2814,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6 ARDEN LN",
+      "mail_city": "COMMACK",
+      "mail_state": "NY",
+      "mail_zip": "11725",
       "legal": "PARKING ON GRASS",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Two vehicles are rear of dwelling parked on grass. One vehicle violates the city noise ordinance prior to 6:30 am Monday through Friday. A green 90s model pickup and a white 90s model four door sedan. There's some mechanical issues with the truck and is often parked under the patio.  Additional Comments:",
       "flags": [
@@ -2732,7 +2827,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471779",
@@ -2747,10 +2843,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1432 PELLICAN PT",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  Siding on side of home has been missing for years.  Additional Comments:",
       "flags": [
@@ -2760,7 +2856,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471781",
@@ -2775,10 +2872,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1425 PELLICAN PT",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "EXTERIOR OF BLDGS \u2013 DECORATIVE FEATURES,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  Shutter, siding and dirty exterior.    Materials have been missing for years.  Additional Comments:",
       "flags": [
@@ -2788,7 +2885,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BLDGS \u2013 DECORATIVE FEATURES,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR OF BLDGS \u2013 DECORATIVE FEATURES,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471785",
@@ -2803,10 +2901,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1200 SAN DESTIN TRCE",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  1200 San Destin is located in the Heron Walk subdivision, Missing siding and mailbox in disrepair. Siding has been missing for years.  Additional Comments:",
       "flags": [
@@ -2816,7 +2914,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR"
+      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471787",
@@ -2831,10 +2930,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6406 BILSIM LN",
+      "mail_city": "LOUISVILLE",
+      "mail_state": "KY",
+      "mail_zip": "40291",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  Missing siding on r side of home.  Home has been like this for more than one year.  Additional Comments:",
       "flags": [
@@ -2844,7 +2943,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR"
+      "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471799",
@@ -2859,10 +2959,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2005 SCOTT AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "BOARDING OF VACANT BUILDINGS,BOARDING REQUIREMENTS,EXTERIOR REPAIR,FAILURE TO SECURE,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  There are weeds and trees overtaking the property, causing rats and raccoons to inhabit the house.  Additional Comments:",
       "flags": [
@@ -2872,7 +2972,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "BOARDING OF VACANT BUILDINGS,BOARDING REQUIREMENTS,EXTERIOR REPAIR,FAILURE TO SECURE,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "BOARDING OF VACANT BUILDINGS,BOARDING REQUIREMENTS,EXTERIOR REPAIR,FAILURE TO SECURE,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471800",
@@ -2887,10 +2988,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1172 BRITTANY PARK",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "STRP PERMIT REQUIRED",
       "description": "host - no strp",
       "flags": [
@@ -2900,7 +3001,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "STRP PERMIT REQUIRED"
+      "_violation_type": "STRP PERMIT REQUIRED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471801",
@@ -2928,7 +3030,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "STRP PERMIT REQUIRED"
+      "_violation_type": "STRP PERMIT REQUIRED",
+      "_parcel_matched": false
     },
     {
       "doc_num": "CV-26-1471802",
@@ -2943,10 +3046,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37221",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "780 HARPETH BEND DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37221",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Back yard tall grass & weeds.  Additional Comments:",
       "flags": [
@@ -2956,7 +3059,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471806",
@@ -2971,10 +3075,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "637 MERCER DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
@@ -2984,7 +3088,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471807",
@@ -2999,10 +3104,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "521 DUTCHMANS DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "PARKING ON GRASS",
       "description": "PARKED ON GRASS-POG",
       "flags": [
@@ -3012,7 +3117,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471808",
@@ -3027,10 +3133,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2721 WESTWOOD DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37204",
       "legal": "PARKING ON GRASS",
       "description": "PARKED ON GRASS-POG",
       "flags": [
@@ -3040,7 +3146,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471813",
@@ -3055,10 +3162,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 695",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37116",
       "legal": "EXTERIOR REPAIR,HVAC SYSTEM REPAIR,INTERIOR REPAIR",
       "description": "HVAC",
       "flags": [
@@ -3068,7 +3175,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR REPAIR,HVAC SYSTEM REPAIR,INTERIOR REPAIR"
+      "_violation_type": "EXTERIOR REPAIR,HVAC SYSTEM REPAIR,INTERIOR REPAIR",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471814",
@@ -3083,10 +3191,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37218",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4014 MEADOW RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37218",
       "legal": "HIGH WEEDS",
       "description": "HIGH GRASS/WEEDS",
       "flags": [
@@ -3096,7 +3204,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471815",
@@ -3111,10 +3220,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "421 EAST IRIS DR STE 300",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37204",
       "legal": "PROHIBITED SIGNS",
       "description": "PROHIBITED SIGN/WIND",
       "flags": [
@@ -3124,7 +3233,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471828",
@@ -3139,10 +3249,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3369 COUNTRY WAY RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "PARKING ON GRASS",
       "description": "POG-SILVER VEHICLE ON GRASS IN FRONT YARD",
       "flags": [
@@ -3152,7 +3262,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471831",
@@ -3167,10 +3278,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3209 AUTUMN DR",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-MATTRESS",
       "flags": [
@@ -3180,7 +3291,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471834",
@@ -3195,10 +3307,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "704 CASTLEGATE DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-MATTRESS IN FRONT OF HOUSE, BOOKSHELF ON SIDE OF HOUSE",
       "flags": [
@@ -3208,7 +3320,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471837",
@@ -3223,10 +3336,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "620 ROCKSPRAY CIR",
+      "mail_city": "PITTSBURG",
+      "mail_state": "CA",
+      "mail_zip": "94565",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-MISC ITEMS AT CURB, SIDE OF THE HOUSE",
       "flags": [
@@ -3236,7 +3349,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471838",
@@ -3251,10 +3365,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1407 WAYFIELD LN",
+      "mail_city": "MOUNT JULIET",
+      "mail_state": "TN",
+      "mail_zip": "37122",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD DUMPED IN OPEN AREA OF 739 HOLDER DR",
       "flags": [
@@ -3264,7 +3378,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471839",
@@ -3279,10 +3394,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "723 HOLDER DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-FURNITURE DISCARDED AT CURB",
       "flags": [
@@ -3292,7 +3407,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471840",
@@ -3307,10 +3423,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "904 BLUE MOUNTAIN LN",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "IMV-UNREGISTERED VEHICLE IN REAR PARKING AREA",
       "flags": [
@@ -3320,7 +3436,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471841",
@@ -3335,10 +3452,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1500 FATHERLAND ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Owner has had unused renovation material and trash  in alley for past two years.  Additional Comments:",
       "flags": [
@@ -3348,7 +3465,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471847",
@@ -3363,10 +3481,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3104 KENNEBECK PL",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "PARKING ON GRASS",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Parking commercial van in the yard/grass  Additional Comments:",
       "flags": [
@@ -3376,7 +3494,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471849",
@@ -3391,10 +3510,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3145 SMITH SPRINGS RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  inoperable crashed vehicle parked in yard  Additional Comments:",
       "flags": [
@@ -3404,7 +3523,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471857",
@@ -3419,10 +3539,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1600 BRIDGECREST DR",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR OF BUILDINGS \u2013 DOORS",
       "description": "DAMAGED GARAGE DOOR",
       "flags": [
@@ -3432,7 +3552,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BUILDINGS \u2013 DOORS"
+      "_violation_type": "EXTERIOR OF BUILDINGS \u2013 DOORS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471520",
@@ -3447,10 +3568,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2204 LAKESHORE DR STE 450",
+      "mail_city": "BIRMINGHAM",
+      "mail_state": "AL",
+      "mail_zip": "35209",
       "legal": "PROHIBITED SIGNS,Sign Permits Required",
       "description": "Wind Flags",
       "flags": [
@@ -3460,7 +3581,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS,Sign Permits Required"
+      "_violation_type": "PROHIBITED SIGNS,Sign Permits Required",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471527",
@@ -3475,10 +3597,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5885 CANE RIDGE RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "ACCESSORY STRUCTURES,COMMERCIAL TRUCK PARKING,OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Building commercial garage",
       "flags": [
@@ -3488,7 +3610,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "ACCESSORY STRUCTURES,COMMERCIAL TRUCK PARKING,OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "ACCESSORY STRUCTURES,COMMERCIAL TRUCK PARKING,OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471539",
@@ -3503,10 +3626,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "308 S 17TH ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Sofa sitting on the front porch. Clearly not porch furniture.  Additional Comments:",
       "flags": [
@@ -3516,7 +3639,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471541",
@@ -3531,10 +3655,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "679 TOBYLYNN DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Bed frame, mattresses, and other discarded furniture in front of the house on the street.  Additional Comments:",
       "flags": [
@@ -3544,7 +3668,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471544",
@@ -3559,10 +3684,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 681484",
+      "mail_city": "FRANKLIN",
+      "mail_state": "TN",
+      "mail_zip": "37068",
       "legal": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  This property\u2019s backyard is entirely full of garbage, including the side of their house. It is visible from the street because the lot next-door is vacant. They have taxes and piles of debris. The street has had a rodent problem before, and I believe it is stemming from this property.  Additional Comments:",
       "flags": [
@@ -3572,7 +3697,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471551",
@@ -3587,10 +3713,10 @@
       "prop_city": "WHITES CREEK",
       "prop_state": "TN",
       "prop_zip": "37189",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1405 BRECKENRIDGE CT",
+      "mail_city": "WHITES CREEK",
+      "mail_state": "TN",
+      "mail_zip": "37189",
       "legal": "USE NOT PERMITTED",
       "description": "Running a car business from the home. Cars parked along the street with orange cones.",
       "flags": [
@@ -3600,7 +3726,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "USE NOT PERMITTED"
+      "_violation_type": "USE NOT PERMITTED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471556",
@@ -3615,10 +3742,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4708 BACKSTRETCH BLVD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  There are multiple homes up and down the street with junk or mattresses in front on sidewalk, but 4708 has a mattress, a Chester drawer, and dresser drawer on the sidewalk  Additional Comments:",
       "flags": [
@@ -3628,7 +3755,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471561",
@@ -3643,10 +3771,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "337 VAILVIEW DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "USE NOT PERMITTED",
       "description": "RUNNING A  COMMERCIAL TOWING BUISNESS  WITH  CARS IN THE FRONT AND BACK YARD. THE TOW TUCK IS SO LONG IT HANGS OUT IN THE STREET WHEN HE PARKS IT IN THE DRIVWAY. SECOND TIME REPORTED",
       "flags": [
@@ -3656,7 +3784,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "USE NOT PERMITTED"
+      "_violation_type": "USE NOT PERMITTED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471565",
@@ -3671,10 +3800,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1100 DODSON ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
@@ -3684,7 +3813,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471566",
@@ -3699,10 +3829,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "691 HARDING PL",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -3712,7 +3842,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471567",
@@ -3727,10 +3858,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "200 28TH ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "IMV'S, POG, JTD, HGW",
       "flags": [
@@ -3740,7 +3871,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471568",
@@ -3755,10 +3887,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "652 HARDING PL",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -3768,7 +3900,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471570",
@@ -3783,10 +3916,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "543 HARDING PL",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -3796,7 +3929,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471571",
@@ -3811,10 +3945,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4814 OVERCREST DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -3824,7 +3958,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471572",
@@ -3839,10 +3974,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5501 FRANKLIN PIKE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37220",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -3852,7 +3987,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471573",
@@ -3867,10 +4003,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2426 ABBOTT MARTIN RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37215",
       "legal": "PARKING ON GRASS",
       "description": "JTD backyard. Inoperable vehicles.",
       "flags": [
@@ -3880,7 +4016,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471575",
@@ -3895,10 +4032,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3850 ORIOLE DR",
+      "mail_city": "COLUMBUS",
+      "mail_state": "IN",
+      "mail_zip": "47203",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -3908,7 +4045,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471577",
@@ -3923,10 +4061,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "523 TURTLE CREEK DR",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -3936,7 +4074,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471582",
@@ -3951,10 +4090,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "110 LAKE TERRACE DR",
+      "mail_city": "HENDERSONVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37075",
       "legal": "PARKING ON GRASS",
       "description": "Truck parked on the grass in the front yard.",
       "flags": [
@@ -3964,7 +4103,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471584",
@@ -3979,10 +4119,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "118 STAR PL",
+      "mail_city": "WHITE HOUSE",
+      "mail_state": "TN",
+      "mail_zip": "37188",
       "legal": "PARKING ON GRASS",
       "description": "Car parked on grass on the side of the house.",
       "flags": [
@@ -3992,7 +4132,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471585",
@@ -4007,10 +4148,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "211 30TH ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
       "description": "JTD, POG",
       "flags": [
@@ -4020,7 +4161,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471588",
@@ -4035,10 +4177,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37220",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5108 REGENT DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37220",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -4048,7 +4190,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471592",
@@ -4063,10 +4206,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1390 BAIN DR",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37115",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -4076,7 +4219,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471626",
@@ -4091,10 +4235,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37218",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3805 WOODWARD DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  The yard, particularly in the ditch area has become overgrown with tall weeds, excessive leaf piles, and grasses, potentially impacting storm water functioning.  Additional Comments:",
       "flags": [
@@ -4104,7 +4248,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471630",
@@ -4119,10 +4264,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1925 VICKERS LN C/O NANCY WOODHEAD",
+      "mail_city": "SEVIERVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37876",
       "legal": "PROHIBITED SIGNS",
       "description": "PROHIBITED SIGNS",
       "flags": [
@@ -4132,7 +4277,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PROHIBITED SIGNS"
+      "_violation_type": "PROHIBITED SIGNS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471607",
@@ -4147,10 +4293,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 70851",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Abandoned property that is always covered in weeds and tall grass. It is 18 inches tall in places now  Additional Comments:",
       "flags": [
@@ -4160,7 +4306,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471632",
@@ -4175,10 +4322,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "609 FLAGSTONE CT",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
@@ -4188,7 +4335,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471635",
@@ -4203,10 +4351,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "7005 PANAMA DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "HIGH WEEDS",
       "description": "HIGH GRASS WEEDS-HGW",
       "flags": [
@@ -4216,7 +4364,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471636",
@@ -4231,10 +4380,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37216",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2601 HILLSBORO PIKE 0-3",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37212",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES,USE NOT PERMITTED",
       "description": "JTD, looks like a dump area, lots of vehicles, etc. all around",
       "flags": [
@@ -4244,7 +4393,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES,USE NOT PERMITTED"
+      "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES,USE NOT PERMITTED",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471640",
@@ -4259,10 +4409,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1437 CAMPBELL RD",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -4272,7 +4422,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471647",
@@ -4287,10 +4438,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4723 BACKSTRETCH BLVD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-MATTRESS ON CURB",
       "flags": [
@@ -4300,7 +4451,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471642",
@@ -4315,10 +4467,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37221",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3202 BELMONT BLVD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37212",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "junk trash",
       "flags": [
@@ -4328,7 +4480,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471648",
@@ -4343,10 +4496,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4728 BACKSTRETCH BLVD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-PALLETTES OF WOOD/PLASTIC UP AGAINST HOUSE",
       "flags": [
@@ -4356,7 +4509,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471649",
@@ -4371,10 +4525,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4731 BACKSTRETCH BLVD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-APPLIANCE ON LEFT SIDE OF HOUSE",
       "flags": [
@@ -4384,7 +4538,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471650",
@@ -4399,10 +4554,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4940 SECRETARIAT DR",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-MATTRESS, JUNK STORED ON SIDE OF HOUSE",
       "flags": [
@@ -4412,7 +4567,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471651",
@@ -4427,10 +4583,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4601 BUCKPASSER AV",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD-COUCH ON CURB",
       "flags": [
@@ -4440,7 +4596,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471654",
@@ -4455,10 +4612,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37217",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "478 RURAL HILL RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Not sure if anyone is living here anymore, I haven't seen anyone in awhile and the lawn is so overgrown and with having animals, backing up to the river, we're worried about pests and snakes.  Additional Comments:",
       "flags": [
@@ -4468,7 +4625,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,HIGH WEEDS"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471656",
@@ -4483,10 +4641,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1000 DONOHO DR",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  1000 Donoho Drive in Old Hickory, Tennessee hardly ever mow the grass or cleans up the junk laying around the property.  Now that the fencing is torn down you can see that the back yard is a mess.  No wonder we have been having a snake issue the last couple of summers.  Someone needs to come out and look at this property front and back.  Additional Comments:",
       "flags": [
@@ -4496,7 +4654,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,HIGH WEEDS"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471658",
@@ -4511,10 +4670,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "7105 PEACH CT STE 212",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Second complaint for overgrown yard.First complaint #02124689 March 30  Additional Comments:",
       "flags": [
@@ -4524,7 +4683,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471661",
@@ -4539,10 +4699,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "3053 STONE BRIDGE RD",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Residential Complaint  Description:  Unregistered truck on property where they place trash inside, which has attracted large rodents. Needs to be addressed ASAP!  Additional Comments:",
       "flags": [
@@ -4552,7 +4712,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471664",
@@ -4567,10 +4728,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 325",
+      "mail_city": "MADISON",
+      "mail_state": "TN",
+      "mail_zip": "37116",
       "legal": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,PARKING ON GRASS",
       "description": "Type: Property Violations - Junk and Debris  Description:  Home on corner of Haynes St and Meade Ave does not have any numbers on the house/house has about 4 junk cars on the side of the house  Additional Comments:",
       "flags": [
@@ -4580,7 +4741,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,PARKING ON GRASS"
+      "_violation_type": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471666",
@@ -4595,10 +4757,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37214",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "604 HIBBITTS CT",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37214",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Type: Property Violations - Junk and Debris  Description:  CALLER SAYS THE RESIDENTS AT THIS ADDRESS ARE NOT PUTTING THEIR TRASH OUT TO BE PICKED UP RATHER LEAVING IT ON THE PROPERTY. THERE'S BAGS OF TRASH OUTSIDE OF THE CAN AND THE RECYCLING IS FULL AND OVERFLOWING. CALLER IS CONCERNED THAT RODENTS WILL SOON BE ATTRACTED TO THE MESS. CALLER SAYS THEY ARE SPANISH SPEAKING.  Additional Comments:",
       "flags": [
@@ -4608,7 +4770,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471669",
@@ -4623,10 +4786,10 @@
       "prop_city": "MADISON",
       "prop_state": "TN",
       "prop_zip": "37115",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1010  BURCHWOOD AVE APT C",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37216",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Residential Complaint  Description:  Property at 730 Delaware Ave., Madison, TN 37115 appears vacant for several months. Power is on, but no yard maintenance is being done. Grass and shrubbery are overgrown, especially in the backyard, and the property is becoming an eyesore.  A white van occasionally visits for short periods, with an individual entering the home, which raises concern given the vacancy.  This is a corner lot where children frequently walk home from a nearby school. The overgrowth creates risk for rodents such as snakes and rats and presents a safety concern.  Requesting the owner be contacted and the property maintained, including cutting the grass and addressing upkeep, before this becomes a larger issue.  Additional Comments:",
       "flags": [
@@ -4636,7 +4799,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471376",
@@ -4651,10 +4815,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 846",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37202",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Empty lot that has repeat dumping. There is currently a lot a  dumping that is currently on the property along with tall grass and construction materials.  Additional Comments:",
       "flags": [
@@ -4664,7 +4828,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471380",
@@ -4679,10 +4844,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37210",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "497 ELYSIAN FIELD RD APT K5",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Grass at or above 12 inches in height  Additional Comments:",
       "flags": [
@@ -4692,7 +4857,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471383",
@@ -4707,10 +4873,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "327 CHAMBERLIN ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37209",
       "legal": "HIGH WEEDS",
       "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Grass is above 12  Additional Comments:",
       "flags": [
@@ -4720,7 +4886,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471386",
@@ -4735,10 +4902,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "308 DYER LN",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -4748,7 +4915,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471387",
@@ -4763,10 +4931,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "802 SHADOWSTONE PL",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37220",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -4776,7 +4944,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471388",
@@ -4791,10 +4960,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "305 WILLARD DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "COMMERCIAL TRUCK PARKING",
       "description": "Type: Property Violations - Residential Complaint  Description:  Residents park multiple box trucks in the driveway every evening; every morning the trucks are moved for others to park in the driveway while the trucks are out for work. Every evening the workers return and play musical cars pulling cars out to make room for the trucks again. This causes traffic issues every day, morning and night, where the road is  blocked while someone is moving a car around. Per code, Parking a commercial vehicle on the premises or on a street adjacent to residentially zoned property is prohibited.  Additional Comments:",
       "flags": [
@@ -4804,7 +4973,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "COMMERCIAL TRUCK PARKING"
+      "_violation_type": "COMMERCIAL TRUCK PARKING",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471389",
@@ -4819,10 +4989,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "4929 DARLINGTON DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -4832,7 +5002,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471390",
@@ -4847,10 +5018,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "380 BARRYWOOD DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -4860,7 +5031,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471391",
@@ -4875,10 +5047,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37220",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5001 TROUSDALE DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37220",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -4888,7 +5060,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471392",
@@ -4903,10 +5076,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37220",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5000 STILLWOOD DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37220",
       "legal": "HIGH WEEDS",
       "description": "GW",
       "flags": [
@@ -4916,7 +5089,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471394",
@@ -4931,10 +5105,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 4025",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -4944,7 +5118,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471395",
@@ -4959,10 +5134,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37205",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "408 S 15TH ST B",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "HIGH WEEDS",
       "description": "weeds",
       "flags": [
@@ -4972,7 +5147,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471397",
@@ -4987,10 +5163,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37205",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "408 S 15TH ST B",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JTD - PLYWOOD",
       "flags": [
@@ -5000,7 +5176,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471398",
@@ -5015,10 +5192,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6016 LANDMARK PL",
+      "mail_city": "BRENTWOOD",
+      "mail_state": "TN",
+      "mail_zip": "37027",
       "legal": "EXTERIOR OF BUILDINGS \u2013 OPENABLE WINDOWS,HIGH WEEDS",
       "description": "Type: Property Violations - Residential Complaint  Description:  The house has been empty over a year now and yard is overgrown. It is possible there is homeless people living in it causing issues. Windows are broken also.  Additional Comments:",
       "flags": [
@@ -5028,7 +5205,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR OF BUILDINGS \u2013 OPENABLE WINDOWS,HIGH WEEDS"
+      "_violation_type": "EXTERIOR OF BUILDINGS \u2013 OPENABLE WINDOWS,HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471400",
@@ -5043,10 +5221,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37205",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1170 PARK DR",
+      "mail_city": "COOKEVILLE",
+      "mail_state": "TN",
+      "mail_zip": "38501",
       "legal": ",Building Permit Required",
       "description": "Type: Property Violations - Residential Complaint  Description:  Heather Diebold owns unit 146 in Royal Oaks 4505 Harding Rd.  She had an enclosed sunroom that had a few broken windows.  She completely gutted her sunporch and drywalled the whole enclosure in.  She did not apply for a building permit to do this work.  She also did not put a door in the space for an exit.  In looking up codes, she should have a door installed.  Pictures are included.  Additional Comments:",
       "flags": [
@@ -5056,7 +5234,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": ",Building Permit Required"
+      "_violation_type": ",Building Permit Required",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471402",
@@ -5071,10 +5250,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1822 A 9TH AVE N",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37208",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Residential Complaint  Description:  caller wanted to report that a huge tree has fallen has on top of this house  Additional Comments:",
       "flags": [
@@ -5084,7 +5263,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471403",
@@ -5099,10 +5279,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2912 WINGATE AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  Hello! This item has been in the ditch for months now. Would a waste truck be able to come haul it away?  Additional Comments:",
       "flags": [
@@ -5112,7 +5292,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471414",
@@ -5127,10 +5308,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "211 DONELSON PIKE M-109",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37214",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -5140,7 +5321,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471415",
@@ -5155,10 +5337,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "301 24TH ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -5168,7 +5350,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471417",
@@ -5183,10 +5366,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "7316 TOLBERT RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37209",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Inoperable cars permanently parked in front yard.  Additional Comments:",
       "flags": [
@@ -5196,7 +5379,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471420",
@@ -5211,10 +5395,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6145 S MT JULIET RD",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -5224,7 +5408,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471421",
@@ -5239,10 +5424,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "210 26TH ST",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "IMV, JTD, HGW, PID",
       "flags": [
@@ -5252,7 +5437,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471422",
@@ -5267,10 +5453,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "212 26TH ST C/O MR & MRS THOMAS STUECK",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS",
       "flags": [
@@ -5280,7 +5466,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471423",
@@ -5295,10 +5482,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "111 RINER DR",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
@@ -5308,7 +5495,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471430",
@@ -5323,10 +5511,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "7469 RUEL MCKNIGHT RD",
+      "mail_city": "MILTON",
+      "mail_state": "TN",
+      "mail_zip": "37118",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD ON VACANT PROPERTY-CONSTRUCTION ITEMS ALSO ON PROPERTY",
       "flags": [
@@ -5336,7 +5524,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471432",
@@ -5351,10 +5540,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2141 SLATER DR",
+      "mail_city": "MURFREESBORO",
+      "mail_state": "TN",
+      "mail_zip": "37128",
       "legal": "PARKING ON GRASS",
       "description": "PARKING ON GRASS",
       "flags": [
@@ -5364,7 +5553,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471433",
@@ -5379,10 +5569,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "2703 WHORLEY CT",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH,PARKING ON GRASS",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Wrecked car parked in front yard.  Additional Comments:",
       "flags": [
@@ -5392,7 +5582,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH,PARKING ON GRASS"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471434",
@@ -5407,10 +5598,10 @@
       "prop_city": "OLD HICKORY",
       "prop_state": "TN",
       "prop_zip": "37138",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "313 SHUTE LN",
+      "mail_city": "OLD HICKORY",
+      "mail_state": "TN",
+      "mail_zip": "37138",
       "legal": "HIGH WEEDS",
       "description": "HIGH GRASS/WEEDS",
       "flags": [
@@ -5420,7 +5611,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS"
+      "_violation_type": "HIGH WEEDS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471435",
@@ -5435,10 +5627,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37209",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "7220 TOLBERT RD",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37209",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
       "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Inoperable cars in driveway with expired tags.  Additional Comments:",
       "flags": [
@@ -5448,7 +5640,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471438",
@@ -5463,10 +5656,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "5133 HARDING PIKE B-10-134",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37208",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  Front property junk all over. Back yard full of trash and junk.  Additional Comments:",
       "flags": [
@@ -5476,7 +5669,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471456",
@@ -5491,10 +5685,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "708 N 5TH ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "EXTERIOR REPAIR,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Dilapidated Structures  Description:  I believe the address is of the dilapidated property is 708 North 5th St. The house is in between the townhome 644 north 5th st and the house at 712 N 5th. Its painted white in front and the rest is green. The occupants have built structures in the back yard and connected to the back of the house that have been un sanitary from the beginning. I tried to give them time to finish the work and hopefully it would be acceptable when finished but the work seems to have stopped up to a year ago and is now degrading with time. The view from the street is bad enough but the view from the anywhere on the adjoining properties is terrible.  Additional Comments:",
       "flags": [
@@ -5504,7 +5698,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR REPAIR,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR REPAIR,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471458",
@@ -5519,10 +5714,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37206",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1224 LILLIAN ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "ROOM ADDITION IS BEING BUILT WITHOUT PERMITS; TOO MANY PEOPLE LIVING AT THIS HOUSE",
       "flags": [
@@ -5532,7 +5727,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471459",
@@ -5547,10 +5743,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "105 WELDON DR",
+      "mail_city": "HERMITAGE",
+      "mail_state": "TN",
+      "mail_zip": "37076",
       "legal": "PARKING ON GRASS",
       "description": "POG, lots of vehicles parked in back. can see this from a neighboring street per caller",
       "flags": [
@@ -5560,7 +5756,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "PARKING ON GRASS"
+      "_violation_type": "PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471460",
@@ -5575,10 +5772,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37214",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1201 TIMBER VALLEY DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37214",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "JTD AT CURB",
       "flags": [
@@ -5588,7 +5785,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471478",
@@ -5603,10 +5801,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "918 PHILLIPS ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37206",
       "legal": "HIGH WEEDS,PARKING ON GRASS",
       "description": "House overgrown with rodents.",
       "flags": [
@@ -5616,7 +5814,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "HIGH WEEDS,PARKING ON GRASS"
+      "_violation_type": "HIGH WEEDS,PARKING ON GRASS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471481",
@@ -5631,10 +5830,10 @@
       "prop_city": "ANTIOCH",
       "prop_state": "TN",
       "prop_zip": "37013",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "205 COLERIDGE CT",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
       "description": "Type: Property Violations - Junk and Debris  Description:  There are at least 10 large trash bags and old/damaged items present on the front lawn of the property.  Additional Comments:",
       "flags": [
@@ -5644,7 +5843,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471488",
@@ -5659,10 +5859,10 @@
       "prop_city": "HERMITAGE",
       "prop_state": "TN",
       "prop_zip": "37076",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "107 STREAM VALLEY BLVD",
+      "mail_city": "FRANKLIN",
+      "mail_state": "TN",
+      "mail_zip": "37064",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
@@ -5672,7 +5872,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471506",
@@ -5687,10 +5888,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1707 FAIRVIEW BLVD, #101",
+      "mail_city": "FAIRVIEW",
+      "mail_state": "TN",
+      "mail_zip": "37062",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  Old mattress and old junk at the road for weeks  Additional Comments:",
       "flags": [
@@ -5700,7 +5901,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471509",
@@ -5715,10 +5917,10 @@
       "prop_city": "GOODLETTSVILLE",
       "prop_state": "TN",
       "prop_zip": "37072",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "6206 LICKTON PIKE",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
       "description": "jtd in backyard",
       "flags": [
@@ -5728,7 +5930,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS"
+      "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471511",
@@ -5743,10 +5946,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37211",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "920 ARBOR CREEK WAY",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  Junk furniture sitting by the road for days  Additional Comments:",
       "flags": [
@@ -5756,7 +5959,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471517",
@@ -5771,10 +5975,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37207",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "P O BOX 70851",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
       "description": "Type: Property Violations - Junk and Debris  Description:  this property now has an old trailer home parked in the back yard behind house.  While hard to tell, there may be people potentially residing in the trailer.  In addition, there is a tremendous amount of junk being stored on the property.  Additional Comments:",
       "flags": [
@@ -5784,7 +5988,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "_parcel_matched": true
     },
     {
       "doc_num": "CV-26-1471519",
@@ -5799,10 +6004,10 @@
       "prop_city": "NASHVILLE",
       "prop_state": "TN",
       "prop_zip": "37208",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
+      "mail_address": "1806 5TH AVE N",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37208",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
       "description": "Type: Property Violations - Junk and Debris  Description:  This trash has been collecting and here for weeks if not.months.  Additional Comments:",
       "flags": [
@@ -5812,7 +6017,8 @@
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
-      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL"
+      "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "_parcel_matched": true
     }
   ]
 }
