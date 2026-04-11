@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T17:27:34Z",
+  "fetched_at": "2026-04-11T17:38:10Z",
   "source": "Davidson County",
   "county": "Davidson",
   "state": "TN",
@@ -25,11 +25,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "Prohibited Sign",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471864%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=100%20CHIMNEYTOP%20DR%20ANTIOCH%20TN%2037013",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -53,11 +54,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "description": "Parking On Grass, Junk, Trash, Debris, Etc.",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471869%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1107%20DEBOW%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -81,11 +83,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "Prohibited Sign",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471876%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4101%20WILLIAM%20TURNER%20PKWY%20ANTIOCH%20TN%2037013",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -109,11 +112,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "GW JTD",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471892%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3411%20MAYS%20ST%20NASHVILLE%20TN%2037211",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -137,11 +141,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Inoperable Motor Vehicle,  Parking On Grass, Junk, Trash, Debris, Etc.,",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471990%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1000%20ELLISTON%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -165,11 +170,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": ",BUILDING AND ZONING PERMIT REQUIRED,USE NOT PERMITTED",
+      "description": "Bldg. Permit Req. & Use Not Permitted",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471674%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3711%20NOLENSVILLE%20PIKE%20NASHVILLE%20TN%2037211",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -193,11 +199,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "SIGN MAINTENANCE",
+      "description": "Dilapidated Sign",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471685%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5314%20HICKORY%20HOLLOW%20PKWY%20ANTIOCH%20TN%2037013",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -221,11 +228,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "LIGHTING (EMISSION),LIGHTING (MAX LEVEL)",
+      "description": "light inspection",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471720%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4525%20HARDING%20PIKE%20NASHVILLE%20TN%2037205",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -249,11 +257,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "Type: Property Violations - Illegal Signs on Private Property  Description:  Illegal flag sign  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471728%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=96%20WHITE%20BRIDGE%20PIKE%20NASHVILLE%20TN%2037205",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -277,11 +286,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "HIGH GRASS",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471747%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3201%20LAKESHORE%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -305,11 +315,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "WEEDS",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471777%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3506%20FOXHALL%20RD%20NASHVILLE%20TN%2037215",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -333,11 +344,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "TREE",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471778%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3506%20FOXHALL%20RD%20NASHVILLE%20TN%2037215",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -361,11 +373,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "STRP PERMIT REQUIRED",
+      "description": "host - no strp",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471798%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=11%20B%20GARDEN%20ST%20NASHVILLE%20TN%2037210",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -389,11 +402,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471810%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3507%20MAGNUM%20DR%20HERMITAGE%20TN%2037076",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -417,11 +431,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Abandoned white GMC with flat tires in apartment parking lot  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471848%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=709%20N%2012TH%20ST%20NASHVILLE%20TN%2037206",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -445,11 +460,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "Wind Flag",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471522%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=311%20W%20TRINITY%20LN%20NASHVILLE%20TN%2037207",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -473,11 +489,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  mattress and bed frame in front yard by the street  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471535%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2505%20WESTERN%20HILLS%20DR%20NASHVILLE%20TN%2037214",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -501,11 +518,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Caller says businesses here are dumping litter behind the business. Not the grocery store but neighboring businesses.  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471547%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5111%20NOLENSVILLE%20PIKE%20NASHVILLE%20TN%2037211",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -529,11 +547,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JTD on the property.",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471558%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1102%20PENNOCK%20AVE%20NASHVILLE%20TN%2037207",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -557,11 +576,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JTD, HGW",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471576%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=204%2028TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -585,11 +605,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "USE NOT PERMITTED",
+      "description": "Someone living in trailer in the back corner of the parking lot behind gas station.",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471579%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1508%20GALLATIN%20PIKE%20S%20MADISON%20TN%2037115",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -613,11 +634,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "description": "IMV, POG, JTD",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471581%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=214%2028TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -641,11 +663,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471583%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2804%20DABBS%20AVE%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -669,11 +692,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471596%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=205%2030TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -697,11 +721,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Not cutting they grass  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471605%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6011%20HILL%20CIR%20NASHVILLE%20TN%2037209",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -725,11 +750,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 ACCES STRUCTURES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Front yard is mowed, but backyard has downed branches from the January ice storm and very tall grass/weeds.  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471621%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=904%20KALVESTA%20CT%20ANTIOCH%20TN%2037013",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -753,11 +779,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  vacant lot is overgrown again/has to keep calling every year to have this cut  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471606%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=0%20SMITH%20SPRINGS%20RD%20NASHVILLE%20TN%2037217",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -781,11 +808,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "PROHIBITED SIGN/WIND",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471631%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3855%20DICKERSON%20PIKE%20NASHVILLE%20TN%2037207",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -809,11 +837,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "PROHIBITED SIGN/WIND",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471633%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3800%20DICKERSON%20PIKE%20NASHVILLE%20TN%2037207",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -837,11 +866,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "HIGH GRASS AND WEEDS-HGW",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471637%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6027%20CORTEZ%20CT%20HERMITAGE%20TN%2037076",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -865,11 +895,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-FURNITURE AT CURB",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471639%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4715%20BACKSTRETCH%20BLVD%20ANTIOCH%20TN%2037013",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -893,11 +924,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Tall grass and overgrowth  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471382%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=7435%20CHARLOTTE%20PIKE%20NASHVILLE%20TN%2037209",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -921,11 +953,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "LANDLORD REGISTRATION,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "PROBLEM REPORTED",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471384%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1407%20DR%20D%20B%20TODD%20JR%20BLVD%20NASHVILLE%20TN%2037208",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -949,11 +982,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "ACCESSORY STRUCTURES,EXTERIOR REPAIR,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  The occupants of this home moved out in December. The structure has sat unoccupied since then. The garage door has fallen off, the yard is not being maintained, and the back door visible from our back porch is open. There are holes in the exterior and we are concerned the property is both unsecured and not being maintained.  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471442%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1026%20PETWAY%20AVE%20NASHVILLE%20TN%2037206",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -977,11 +1011,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-FURNITURE AT CURB",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471457%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2739%20MOSSDALE%20DR%20NASHVILLE%20TN%2037217",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1005,11 +1040,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "INOPERABLE/UNLICENSED VEHICLE-IMV",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471487%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3940%20BELL%20RD%20HERMITAGE%20TN%2037076",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1033,11 +1069,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  One of the units constantly puts out furniture, mattresses, and other larger debris. Also went doing renovations, the contractors out the construction materials out back for trash pick up but it\u2019s next picked up.  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471507%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1704%2014TH%20AVE%20N%20NASHVILLE%20TN%2037208",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1061,11 +1098,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  We have posted no dumping signs at the dumpster yet every Monday the area is filled with furnature and trash  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471508%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=105%20BONNABROOK%20DR%20HERMITAGE%20TN%2037076",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1089,11 +1127,12 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Trash trash and more trash  Additional Comments:",
       "flags": [
         "LLC / corp owner",
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471518%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=232%20ELM%20ST%20MADISON%20TN%2037115",
       "score": 55,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1117,10 +1156,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Junk, Trash, Debris, Etc., Premise Identification",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471865%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1101%20DEBOW%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1144,10 +1184,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "",
+      "description": "Prohibited Sign",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471867%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5353%20CANE%20RIDGE%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1171,10 +1212,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471870%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1109%20DEBOW%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1198,10 +1240,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "description": "Parking On Grass, Junk, Trash, Debris, Etc.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471871%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1601%20HADLEY%20AVE%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1225,10 +1268,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Inoperable vehicle in driveway. Closed previously without remedy  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471881%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1515%20DOUGLAS%20AVE%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1252,10 +1296,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "Building Permit Required",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Home is currently listed for sale. The listing agent said that all plumbing, electrical/electrical panel and hvac has been updated throughout. Not showing that any of the work has been permitted.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471883%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2703%20MEADOW%20ROSE%20DR%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1279,10 +1324,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JTD GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471884%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=520%20VERITAS%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1306,10 +1352,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471890%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=526%20VERITAS%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1333,10 +1380,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471896%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3407%20MAYS%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1360,10 +1408,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471899%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=524%20HIGH%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1387,10 +1436,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471903%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=525%20HIGH%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1414,10 +1464,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471904%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=227%20RAYMOND%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1441,10 +1492,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471906%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=301%20RAYMOND%20ST%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1468,10 +1520,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471908%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3401%20KEYSTONE%20AVE%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1495,10 +1548,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471930%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2701%20B%20MEADOW%20ROSE%20DR%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1522,10 +1576,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471944%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=340%20E%20WEBSTER%20ST%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1549,10 +1604,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "description": "Siding missing",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471945%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1000%20TREASURE%20REEF%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1576,10 +1632,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "description": "Siding missing",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471949%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1132%20SHAWNEE%20TRCE%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1603,10 +1660,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471958%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=295%20OCALA%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1630,10 +1688,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "STRP PERMIT REQUIRED",
+      "description": "host - no strp",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471959%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1304%20TUCKAHOE%20DR%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1657,10 +1716,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-FURNITURE AT CURB",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471960%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3432%20TOWNESHIP%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1684,10 +1744,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-FURNITURE CONSTRUCTION MATERIALS IN YARD",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471961%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3317%20NEW%20TOWNE%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1711,10 +1772,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-FURNITURE AT CURB",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471962%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3248%20NEW%20TOWNE%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1738,10 +1800,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471991%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1011%20N%20GRAYCROFT%20AVE%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1765,10 +1828,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "pog, imv",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472000%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=412%20HAMBLEN%20DR%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1792,10 +1856,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472003%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1004%20ELLISTON%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1819,10 +1884,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472011%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1102%20ELLISTON%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1846,10 +1912,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "ADDRESS ID RESIDENTIAL,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "High Grass Weed, Junk, Trash, Debris, Etc., Premise I.D.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472012%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1104%20ELLISTON%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1873,10 +1940,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "COMMERCIAL TRUCK PARKING,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD COM PARK.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472017%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6009%20PANAMA%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1900,10 +1968,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "high grass and weeds, dilapidated boat",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472019%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3221%20LAKESHORE%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1927,10 +1996,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BUILDINGS \u2013 PREMISES ID RES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD PID",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472020%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6011%20PANAMA%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1954,10 +2024,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472021%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6013%20PANAMA%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -1981,10 +2052,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472022%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6015%20PANAMA%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2008,10 +2080,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472023%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6023%20PANAMA%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2035,10 +2108,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "ADDRESS ID RESIDENTIAL,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1472024%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5253%20RICE%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2062,10 +2136,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERMINATION \u2013 MULTIPLE OCCUPANCY,EXTERMINATION REQUIRED",
+      "description": "Type: Property Violations - Tenant Complaint  Description:  Mice and cockroaches  Additional Comments:  6154852450",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471678%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6900%20SONYA%20DR%20NASHVILLE%20TN%2037209",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2089,10 +2164,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "",
+      "description": "Sign Permits & Prohibited Signs",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471682%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4022%20NOLENSVILLE%20PIKE%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2116,10 +2192,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Overgrown grass and weeds, an eyesore  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471683%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=327%20BLACKMAN%20RD%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2143,10 +2220,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Pile of junk and trash left in driveway. It\u2019s been there for almost 2 weeks.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471687%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=701%20BRENT%20GLEN%20PL%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2170,10 +2248,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Junk and Debris  Description:  There are a minimum of 6 cars, most do not run in the driveway and on the street for years.   Debris on the porch, yard and street  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471688%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=612%20KEETON%20AVE%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2197,10 +2276,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "SIGN MAINTENANCE",
+      "description": "Dilapidated Sign",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471689%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5432%20BELL%20FORGE%20LN%20E%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2224,10 +2304,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471691%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2645%20DELK%20AVE%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2251,10 +2332,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Neighbor complaint about the trash and garbage on side of unit. Resident been asked to remove the junk.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471700%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1301%20EWING%20CREEK%20DR%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2278,10 +2360,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471722%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4909%20MONTCLAIR%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2305,10 +2388,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471721%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4906%20SALEM%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2332,10 +2416,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471723%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=401%20FIELDCREST%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2359,10 +2444,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "USE NOT PERMITTED",
+      "description": "Type: Property Violations - Home Occupation Reporting  Description:  Keith's automotive working at this location.   Cars are at rear of property  Additional Comments:  Wreckers in and out all hours of the day",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471725%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2217%20CRAIGMEADE%20CIR%20NASHVILLE%20TN%2037214",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2386,10 +2472,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "SIGNS  \u2013 PROHIBITED - WIND",
+      "description": "Wind Sign",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471726%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3225%20GALLATIN%20PIKE%20NASHVILLE%20TN%2037216",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2413,10 +2500,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Junk and Debris  Description:  6-7 cars being worked on the do not work  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471727%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6405%20PADDINGTON%20WAY%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2440,10 +2528,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "description": "PARKING ON THE GRASS, OPEN STORAGE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471750%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3045%20LAKESHORE%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2467,10 +2556,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "TRASH RUNNING  OVER ON THE PROPERTY,  FURNITURE BY THE DUMPSTERS AND DOG POOP ON THE BREEZE WAYS.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471755%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=101%20FACTORY%20ST%20NASHVILLE%20TN%2037210",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2494,10 +2584,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "STRP PERMIT REQUIRED",
+      "description": "28 nights",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471764%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1016%20B%20ALICE%20ST%20NASHVILLE%20TN%2037218",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2521,10 +2612,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Public Safety - Abandoned Vehicles  Description:  There are junk cars parking under the covered driveway of this residence. Have flats. It appears there are three junk cars there  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471766%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=333%20BELL%20RD%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2548,10 +2640,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Public Safety - Abandoned Vehicles  Description:  There are two junk cars with flat tires in the driveway of this home. One is gold and the other is a red color. There are also cars being parked on the front lawn of the home.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471768%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=289%20BELL%20RD%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2575,10 +2668,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  There are cars parking in the front yard on the grass of this home.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471771%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=277%20BELL%20RD%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2602,10 +2696,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR PROP AREA \u2013 TRAILERS WATERCRAFT,HIGH WEEDS",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  construction trailer has been parked in the front yard at this address for over a month  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471772%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=213%20RYBURN%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2629,10 +2724,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Two vehicles are rear of dwelling parked on grass. One vehicle violates the city noise ordinance prior to 6:30 am Monday through Friday. A green 90s model pickup and a white 90s model four door sedan. There's some mechanical issues with the truck and is often parked under the patio.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471773%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=332%20E%20WEBSTER%20ST%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2656,10 +2752,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  Siding on side of home has been missing for years.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471779%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1432%20PELLICAN%20PT%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2683,10 +2780,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BLDGS \u2013 DECORATIVE FEATURES,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  Shutter, siding and dirty exterior.    Materials have been missing for years.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471781%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1425%20PELLICAN%20PT%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2710,10 +2808,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  1200 San Destin is located in the Heron Walk subdivision, Missing siding and mailbox in disrepair. Siding has been missing for years.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471785%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1200%20SAN%20DESTIN%20TRCE%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2737,10 +2836,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  Missing siding on r side of home.  Home has been like this for more than one year.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471787%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1044%20SHAWNEE%20TRCE%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2764,10 +2864,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "BOARDING OF VACANT BUILDINGS,BOARDING REQUIREMENTS,EXTERIOR REPAIR,FAILURE TO SECURE,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  There are weeds and trees overtaking the property, causing rats and raccoons to inhabit the house.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471799%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2005%20SCOTT%20AVE%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2791,10 +2892,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "STRP PERMIT REQUIRED",
+      "description": "host - no strp",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471800%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1172%20BRITTANY%20PARK%20LN%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2818,10 +2920,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "STRP PERMIT REQUIRED",
+      "description": "host - no strp",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471801%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1212%20DEMONBREUN%20ST%201413%20NASHVILLE%20TN%2037203",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2845,10 +2948,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Back yard tall grass & weeds.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471802%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=780%20HARPETH%20BEND%20DR%20NASHVILLE%20TN%2037221",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2872,10 +2976,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471806%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=637%20MERCER%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2899,10 +3004,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKED ON GRASS-POG",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471807%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=521%20DUTCHMANS%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2926,10 +3032,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKED ON GRASS-POG",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471808%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=642%20ALBANY%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2953,10 +3060,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR REPAIR,HVAC SYSTEM REPAIR,INTERIOR REPAIR",
+      "description": "HVAC",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471813%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=129%20MYATT%20DR%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -2980,10 +3088,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "HIGH GRASS/WEEDS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471814%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4014%20MEADOW%20RD%20NASHVILLE%20TN%2037218",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3007,10 +3116,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "PROHIBITED SIGN/WIND",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471815%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=926%20GALLATIN%20AVE%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3034,10 +3144,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "POG-SILVER VEHICLE ON GRASS IN FRONT YARD",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471828%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3369%20COUNTRY%20WAY%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3061,10 +3172,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-MATTRESS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471831%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3209%20AUTUMN%20DR%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3088,10 +3200,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-MATTRESS IN FRONT OF HOUSE, BOOKSHELF ON SIDE OF HOUSE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471834%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2980%20HIGH%20RIGGER%20DR%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3115,10 +3228,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-MISC ITEMS AT CURB, SIDE OF THE HOUSE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471837%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1029%20WESLEYVILLE%20ST%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3142,10 +3256,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD DUMPED IN OPEN AREA OF 739 HOLDER DR",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471838%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=739%20HOLDER%20DR%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3169,10 +3284,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-FURNITURE DISCARDED AT CURB",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471839%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=723%20HOLDER%20DR%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3196,10 +3312,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "IMV-UNREGISTERED VEHICLE IN REAR PARKING AREA",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471840%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=717%20HOLDER%20DR%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3223,10 +3340,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Owner has had unused renovation material and trash  in alley for past two years.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471841%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1500%20FATHERLAND%20ST%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3250,10 +3368,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Parking commercial van in the yard/grass  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471847%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3104%20KENNEBECK%20PL%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3277,10 +3396,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  inoperable crashed vehicle parked in yard  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471849%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3145%20SMITH%20SPRINGS%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3304,10 +3424,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BUILDINGS \u2013 DOORS",
+      "description": "DAMAGED GARAGE DOOR",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471857%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1600%20BRIDGECREST%20DR%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3331,10 +3452,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS,Sign Permits Required",
+      "description": "Wind Flags",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471520%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=200%20HILLSIDE%20COTTAGE%20LN%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3358,10 +3480,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "ACCESSORY STRUCTURES,COMMERCIAL TRUCK PARKING,OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Building commercial garage",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471527%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5885%20CANE%20RIDGE%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3385,10 +3508,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Sofa sitting on the front porch. Clearly not porch furniture.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471539%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=308%20S%2017TH%20ST%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3412,10 +3536,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Bed frame, mattresses, and other discarded furniture in front of the house on the street.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471541%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=679%20TOBYLYNN%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3439,10 +3564,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  This property\u2019s backyard is entirely full of garbage, including the side of their house. It is visible from the street because the lot next-door is vacant. They have taxes and piles of debris. The street has had a rodent problem before, and I believe it is stemming from this property.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471544%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=232%20HICKORY%20ST%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3466,10 +3592,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "USE NOT PERMITTED",
+      "description": "Running a car business from the home. Cars parked along the street with orange cones.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471551%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1405%20BRECKENRIDGE%20CT%20WHITES%20CREEK%20TN%2037189",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3493,10 +3620,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  There are multiple homes up and down the street with junk or mattresses in front on sidewalk, but 4708 has a mattress, a Chester drawer, and dresser drawer on the sidewalk  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471556%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4708%20BACKSTRETCH%20BLVD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3520,10 +3648,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "USE NOT PERMITTED",
+      "description": "RUNNING A  COMMERCIAL TOWING BUISNESS  WITH  CARS IN THE FRONT AND BACK YARD. THE TOW TUCK IS SO LONG IT HANGS OUT IN THE STREET WHEN HE PARKS IT IN THE DRIVWAY. SECOND TIME REPORTED",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471561%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=341%20VAILVIEW%20DR%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3547,10 +3676,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471565%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1100%20DODSON%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3574,10 +3704,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471566%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=691%20HARDING%20PL%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3601,10 +3732,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "IMV'S, POG, JTD, HGW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471567%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=200%2028TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3628,10 +3760,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471568%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=652%20HARDING%20PL%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3655,10 +3788,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471570%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=543%20HARDING%20PL%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3682,10 +3816,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471571%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4814%20OVERCREST%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3709,10 +3844,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471572%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=310%20WAUFORD%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3736,10 +3872,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "JTD backyard. Inoperable vehicles.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471573%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=121%20LONGHUNTER%20CT%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3763,10 +3900,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471575%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4810%20DANBY%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3790,10 +3928,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471577%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4806%20DANBY%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3817,10 +3956,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "Truck parked on the grass in the front yard.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471582%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=716%20MCCARLEY%20AVE%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3844,10 +3984,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "Car parked on grass on the side of the house.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471584%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=403%20LANIER%20DR%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3871,10 +4012,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
+      "description": "JTD, POG",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471585%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=211%2030TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3898,10 +4040,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471588%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5108%20REGENT%20DR%20NASHVILLE%20TN%2037220",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3925,10 +4068,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471592%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=207%2030TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3952,10 +4096,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  The yard, particularly in the ditch area has become overgrown with tall weeds, excessive leaf piles, and grasses, potentially impacting storm water functioning.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471626%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3210%20RESHA%20LN%20NASHVILLE%20TN%2037218",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -3979,10 +4124,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PROHIBITED SIGNS",
+      "description": "PROHIBITED SIGNS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471630%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4732%20LEBANON%20PIKE%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4006,10 +4152,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Abandoned property that is always covered in weeds and tall grass. It is 18 inches tall in places now  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471607%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1018%20MONROE%20ST%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4033,10 +4180,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471632%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=609%20FLAGSTONE%20CT%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4060,10 +4208,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "HIGH GRASS WEEDS-HGW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471635%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=7005%20PANAMA%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4087,10 +4236,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES,USE NOT PERMITTED",
+      "description": "JTD, looks like a dump area, lots of vehicles, etc. all around",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471636%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=922%20HOME%20RD%20NASHVILLE%20TN%2037216",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4114,10 +4264,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471640%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1525%20HERITAGE%20VIEW%20BLVD%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4141,10 +4292,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-MATTRESS ON CURB",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471647%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4723%20BACKSTRETCH%20BLVD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4168,10 +4320,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "junk trash",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471642%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=271%20OLD%20HICKORY%20BLVD%20NASHVILLE%20TN%2037221",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4195,10 +4348,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-PALLETTES OF WOOD/PLASTIC UP AGAINST HOUSE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471648%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4728%20BACKSTRETCH%20BLVD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4222,10 +4376,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-APPLIANCE ON LEFT SIDE OF HOUSE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471649%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4731%20BACKSTRETCH%20BLVD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4249,10 +4404,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-MATTRESS, JUNK STORED ON SIDE OF HOUSE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471650%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4940%20SECRETARIAT%20DR%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4276,10 +4432,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD-COUCH ON CURB",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471651%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4601%20BUCKPASSER%20AVE%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4303,10 +4460,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Not sure if anyone is living here anymore, I haven't seen anyone in awhile and the lawn is so overgrown and with having animals, backing up to the river, we're worried about pests and snakes.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471654%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=478%20RURAL%20HILL%20RD%20NASHVILLE%20TN%2037217",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4330,10 +4488,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  1000 Donoho Drive in Old Hickory, Tennessee hardly ever mow the grass or cleans up the junk laying around the property.  Now that the fencing is torn down you can see that the back yard is a mess.  No wonder we have been having a snake issue the last couple of summers.  Someone needs to come out and look at this property front and back.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471656%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1000%20DONOHO%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4357,10 +4516,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Second complaint for overgrown yard.First complaint #02124689 March 30  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471658%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3843%20BONNACREEK%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4384,10 +4544,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Unregistered truck on property where they place trash inside, which has attracted large rodents. Needs to be addressed ASAP!  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471661%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3053%20STONE%20BRIDGE%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4411,10 +4572,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,PARKING ON GRASS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Home on corner of Haynes St and Meade Ave does not have any numbers on the house/house has about 4 junk cars on the side of the house  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471664%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1796%20MEADE%20AVE%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4438,10 +4600,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Type: Property Violations - Junk and Debris  Description:  CALLER SAYS THE RESIDENTS AT THIS ADDRESS ARE NOT PUTTING THEIR TRASH OUT TO BE PICKED UP RATHER LEAVING IT ON THE PROPERTY. THERE'S BAGS OF TRASH OUTSIDE OF THE CAN AND THE RECYCLING IS FULL AND OVERFLOWING. CALLER IS CONCERNED THAT RODENTS WILL SOON BE ATTRACTED TO THE MESS. CALLER SAYS THEY ARE SPANISH SPEAKING.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471666%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=604%20HIBBITTS%20CT%20NASHVILLE%20TN%2037214",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4465,10 +4628,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Property at 730 Delaware Ave., Madison, TN 37115 appears vacant for several months. Power is on, but no yard maintenance is being done. Grass and shrubbery are overgrown, especially in the backyard, and the property is becoming an eyesore.  A white van occasionally visits for short periods, with an individual entering the home, which raises concern given the vacancy.  This is a corner lot where children frequently walk home from a nearby school. The overgrowth creates risk for rodents such as snakes and rats and presents a safety concern.  Requesting the owner be contacted and the property maintained, including cutting the grass and addressing upkeep, before this becomes a larger issue.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471669%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=730%20DELAWARE%20AVE%20MADISON%20TN%2037115",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4492,10 +4656,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Empty lot that has repeat dumping. There is currently a lot a  dumping that is currently on the property along with tall grass and construction materials.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471376%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1109%20WHELESS%20ST%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4519,10 +4684,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Grass at or above 12 inches in height  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471380%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2223%20FOSTER%20AVE%20NASHVILLE%20TN%2037210",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4546,10 +4712,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "Type: Property Violations - Tall Grass and Weeds  Description:  Grass is above 12  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471383%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=327%20CHAMBERLIN%20ST%20NASHVILLE%20TN%2037209",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4573,10 +4740,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471386%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=306%20GARRETT%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4600,10 +4768,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471387%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=335%20TIMBERDALE%20CT%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4627,10 +4796,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "COMMERCIAL TRUCK PARKING",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Residents park multiple box trucks in the driveway every evening; every morning the trucks are moved for others to park in the driveway while the trucks are out for work. Every evening the workers return and play musical cars pulling cars out to make room for the trucks again. This causes traffic issues every day, morning and night, where the road is  blocked while someone is moving a car around. Per code, Parking a commercial vehicle on the premises or on a street adjacent to residentially zoned property is prohibited.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471388%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=305%20WILLARD%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4654,10 +4824,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471389%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4929%20DARLINGTON%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4681,10 +4852,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471390%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=380%20BARRYWOOD%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4708,10 +4880,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471391%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5001%20TROUSDALE%20DR%20NASHVILLE%20TN%2037220",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4735,10 +4908,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "GW",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471392%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=5000%20STILLWOOD%20DR%20NASHVILLE%20TN%2037220",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4762,10 +4936,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471394%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=203%20TREUTLAND%20AVE%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4789,10 +4964,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "weeds",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471395%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=201%20LEAKE%20AVE%20NASHVILLE%20TN%2037205",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4816,10 +4992,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JTD - PLYWOOD",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471397%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=201%20LEAKE%20AVE%20NASHVILLE%20TN%2037205",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4843,10 +5020,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR OF BUILDINGS \u2013 OPENABLE WINDOWS,HIGH WEEDS",
+      "description": "Type: Property Violations - Residential Complaint  Description:  The house has been empty over a year now and yard is overgrown. It is possible there is homeless people living in it causing issues. Windows are broken also.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471398%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3100%20FIELDSTONE%20DR%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4870,10 +5048,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": ",Building Permit Required",
+      "description": "Type: Property Violations - Residential Complaint  Description:  Heather Diebold owns unit 146 in Royal Oaks 4505 Harding Rd.  She had an enclosed sunroom that had a few broken windows.  She completely gutted her sunporch and drywalled the whole enclosure in.  She did not apply for a building permit to do this work.  She also did not put a door in the space for an exit.  In looking up codes, she should have a door installed.  Pictures are included.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471400%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4505%20HARDING%20PIKE%20146%20NASHVILLE%20TN%2037205",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4897,10 +5076,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Residential Complaint  Description:  caller wanted to report that a huge tree has fallen has on top of this house  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471402%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1822%20A%209TH%20AVE%20N%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4924,10 +5104,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Hello! This item has been in the ditch for months now. Would a waste truck be able to come haul it away?  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471403%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2912%20WINGATE%20AVE%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4951,10 +5132,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471414%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1409%20DR%20D%20B%20TODD%20JR%20BLVD%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -4978,10 +5160,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471415%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2601%20ELLIOTT%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5005,10 +5188,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Inoperable cars permanently parked in front yard.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471417%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=7316%20TOLBERT%20RD%20NASHVILLE%20TN%2037209",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5032,10 +5216,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471420%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=208%2026TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5059,10 +5244,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "IMV, JTD, HGW, PID",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471421%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=210%2026TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5086,10 +5272,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471422%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=212%2026TH%20ST%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5113,10 +5300,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "Junk, Trash, Debris, Etc.,",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471423%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=111%20RINER%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5140,10 +5328,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD ON VACANT PROPERTY-CONSTRUCTION ITEMS ALSO ON PROPERTY",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471430%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=4414%20MAXWELL%20RD%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5167,10 +5356,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "PARKING ON GRASS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471432%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2605%20ELLIOTT%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5194,10 +5384,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH,PARKING ON GRASS",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Wrecked car parked in front yard.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471433%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=7302%20TOLBERT%20RD%20NASHVILLE%20TN%2037209",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5221,10 +5412,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS",
+      "description": "HIGH GRASS/WEEDS",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471434%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=2603%20ELLIOTT%20DR%20OLD%20HICKORY%20TN%2037138",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5248,10 +5440,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
+      "description": "Type: Property Violations - Cars Parked on Lawn  Description:  Inoperable cars in driveway with expired tags.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471435%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=7310%20TOLBERT%20RD%20NASHVILLE%20TN%2037209",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5275,10 +5468,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  Front property junk all over. Back yard full of trash and junk.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471438%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1721%2017TH%20AVE%20N%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5302,10 +5496,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR REPAIR,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Dilapidated Structures  Description:  I believe the address is of the dilapidated property is 708 North 5th St. The house is in between the townhome 644 north 5th st and the house at 712 N 5th. Its painted white in front and the rest is green. The occupants have built structures in the back yard and connected to the back of the house that have been un sanitary from the beginning. I tried to give them time to finish the work and hopefully it would be acceptable when finished but the work seems to have stopped up to a year ago and is now degrading with time. The view from the street is bad enough but the view from the anywhere on the adjoining properties is terrible.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471456%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=708%20N%205TH%20ST%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5329,10 +5524,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "ROOM ADDITION IS BEING BUILT WITHOUT PERMITS; TOO MANY PEOPLE LIVING AT THIS HOUSE",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471458%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1224%20LILLIAN%20ST%20NASHVILLE%20TN%2037206",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5356,10 +5552,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "PARKING ON GRASS",
+      "description": "POG, lots of vehicles parked in back. can see this from a neighboring street per caller",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471459%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=105%20WELDON%20DR%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5383,10 +5580,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "JTD AT CURB",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471460%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1201%20TIMBER%20VALLEY%20DR%20NASHVILLE%20TN%2037214",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5410,10 +5608,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "HIGH WEEDS,PARKING ON GRASS",
+      "description": "House overgrown with rodents.",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471478%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=918%20PHILLIPS%20ST%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5437,10 +5636,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
+      "description": "Type: Property Violations - Junk and Debris  Description:  There are at least 10 large trash bags and old/damaged items present on the front lawn of the property.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471481%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=205%20COLERIDGE%20CT%20ANTIOCH%20TN%2037013",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5464,10 +5664,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "JUNK TRASH DEBRIS-OPEN STORAGE-JTD",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471488%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=812%20HERITAGE%20TRL%20HERMITAGE%20TN%2037076",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5491,10 +5692,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Old mattress and old junk at the road for weeks  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471506%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=3805%20CHAMBERS%20DR%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5518,10 +5720,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
+      "description": "jtd in backyard",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471509%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=6206%20LICKTON%20PIKE%20GOODLETTSVILLE%20TN%2037072",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5545,10 +5748,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  Junk furniture sitting by the road for days  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471511%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=330%20MARGO%20LN%20NASHVILLE%20TN%2037211",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5572,10 +5776,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
+      "description": "Type: Property Violations - Junk and Debris  Description:  this property now has an old trailer home parked in the back yard behind house.  While hard to tell, there may be people potentially residing in the trailer.  In addition, there is a tremendous amount of junk being stored on the property.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471517%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=950%20YOUNGS%20LN%20NASHVILLE%20TN%2037207",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",
@@ -5599,10 +5804,11 @@
       "mail_state": "",
       "mail_zip": "",
       "legal": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
+      "description": "Type: Property Violations - Junk and Debris  Description:  This trash has been collecting and here for weeks if not.months.  Additional Comments:",
       "flags": [
         "New this week"
       ],
-      "clerk_url": "https://datanashvillegov-nashville.hub.arcgis.com/datasets/Nashville::property-standards-requests/explore?where=Request_Nbr%20%3D%20%2726-1471519%27",
+      "clerk_url": "https://www.google.com/maps/search/?api=1&query=1803%205TH%20AVE%20N%20NASHVILLE%20TN%2037208",
       "score": 45,
       "_source_county": "Davidson County Clerk",
       "_violation_status": "OPEN",

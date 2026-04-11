@@ -582,7 +582,7 @@
         <th data-col="amount">Amount</th>
         <th data-col="flags">Flags</th>
         <th data-col="status">Status</th>
-        <th data-col="clerk_url">Doc Link</th>
+        <th data-col="clerk_url">Link</th>
       </tr>
     </thead>
     <tbody id="table-body"></tbody>
@@ -853,8 +853,9 @@
       const rowClass = score >= 70 ? 'hot' : score >= 40 ? 'warm' : 'cool';
       const cfg      = TYPE_CONFIG[r.doc_type] || { label: r.doc_type, color: '#6b7280' };
 
-      // Type badge + violation detail sub-line
-      const typeBadge = `<span class="type-badge" style="color:${cfg.color};border-color:${cfg.color}33;background:${cfg.color}12">${esc(cfg.label)}</span>${r.legal ? `<div class="owner-sub" style="margin-top:3px">${esc(r.legal)}</div>` : ''}`;
+      // Type badge + violation detail sub-line + description tooltip
+      const tipText = r.description ? esc(r.description).replace(/\s+/g,' ').substring(0,300) : '';
+      const typeBadge = `<span class="type-badge" style="color:${cfg.color};border-color:${cfg.color}33;background:${cfg.color}12"${tipText ? ` title="${tipText}"` : ''}>${esc(cfg.label)}</span>${r.legal ? `<div class="owner-sub" style="margin-top:3px">${esc(r.legal)}</div>` : ''}`;
 
       // Owner
       const ownerHtml = `<div class="owner-name">${esc(r.owner || '—')}</div>
@@ -889,7 +890,7 @@
 
       // Doc link
       const docHtml = r.clerk_url
-        ? `<a class="doc-link" href="${esc(r.clerk_url)}" target="_blank">${esc(r.doc_num || 'View')} ▶</a>`
+        ? `<a class="doc-link" href="${esc(r.clerk_url)}" target="_blank">${r.doc_type === 'CODE_VIOLATION' ? '📍 Map' : esc(r.doc_num || 'View') + ' ▶'}</a>`
         : `<span class="doc-nolink">${esc(r.doc_num || '—')}</span>`;
 
       tbody.insertAdjacentHTML('beforeend', `
