@@ -1,0 +1,11 @@
+{
+  "counties": [
+    {
+      "slug": "davidson_tn",
+      "county": "Davidson",
+      "state": "TN",
+      "path": "./davidson_tn/",
+      "updated_at": "2026-04-12T12:08:38Z"
+    }
+  ]
+}

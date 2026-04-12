@@ -64,16 +64,16 @@
       text-transform: uppercase;
       letter-spacing: 1px;
     }
-    .county-card .status {
-      display: inline-block;
-      margin-top: 12px;
-      font-size: 0.7rem;
-      padding: 3px 8px;
-      border-radius: 20px;
-      background: #2a2d3a;
-      color: #aaa;
+    .county-card .updated {
+      font-size: 0.65rem;
+      color: #555;
+      margin-top: 10px;
     }
-    .county-card .status.active { background: #1a3a1a; color: #4ade80; }
+    .empty {
+      color: #555;
+      font-size: 0.9rem;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -83,21 +83,43 @@
   <p>Motivated Seller Intelligence</p>
 </div>
 
-<div class="county-grid">
-
-  <a class="county-card" href="./davidson_tn/">
-    <div class="name">Davidson County</div>
-    <div class="state">Tennessee</div>
-    <div class="status active">Active</div>
-  </a>
-
-  <a class="county-card" href="./lubbock_tx/">
-    <div class="name">Lubbock County</div>
-    <div class="state">Texas</div>
-    <div class="status">Manual</div>
-  </a>
-
+<div class="county-grid" id="grid">
+  <p class="empty">Loading counties…</p>
 </div>
+
+<script>
+  async function loadCounties() {
+    const grid = document.getElementById('grid');
+    try {
+      const res = await fetch('./counties.json?_=' + Date.now());
+      if (!res.ok) throw new Error('counties.json not found');
+      const data = await res.json();
+      const counties = data.counties || [];
+
+      if (!counties.length) {
+        grid.innerHTML = '<p class="empty">No counties have been scraped yet.</p>';
+        return;
+      }
+
+      grid.innerHTML = counties.map(c => {
+        const updated = c.updated_at
+          ? new Date(c.updated_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+          : '';
+        return `
+          <a class="county-card" href="${c.path}">
+            <div class="name">${c.county} County</div>
+            <div class="state">${c.state}</div>
+            ${updated ? `<div class="updated">Updated ${updated}</div>` : ''}
+          </a>`;
+      }).join('');
+    } catch (e) {
+      grid.innerHTML = '<p class="empty">Could not load county list.</p>';
+      console.error(e);
+    }
+  }
+
+  loadCounties();
+</script>
 
 </body>
 </html>
