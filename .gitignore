@@ -1,0 +1,12 @@
+# OE-deedhound — dashboard-only repo
+# Never commit scraper code, configs, or credentials here.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+scraper/
+config/
+data/
+.env
+*.env
+secrets.*
