@@ -591,6 +591,7 @@
       <tr>
         <th data-col="score">Score</th>
         <th data-col="doc_type">Type</th>
+        <th data-col="county">County</th>
         <th data-col="filed">Filed</th>
         <th data-col="owner">Owner / Grantor</th>
         <th data-col="prop_address">Property Address</th>
@@ -634,6 +635,7 @@
     NOC:            { label: 'Notice of Comm.',  color: '#6b7280', group: 'OTHER' },
     TAXDELINQUENT:  { label: 'Tax Delinquent',   color: '#f59e0b', group: 'TAX' },
     CODE_VIOLATION: { label: 'Code Violation',   color: '#dc2626', group: 'CODES' },
+    FCNOTICE:       { label: 'Foreclosure Notice', color: '#f97316', group: 'FORECLOSURE' },
   };
 
   // Group display names for filter buttons
@@ -914,6 +916,7 @@
         <tr class="${rowClass}">
           <td><span class="score-badge">${score}</span></td>
           <td>${typeBadge}</td>
+          <td><span style="font-size:0.78rem;color:#64748b">${esc(r.county || '—')}</span></td>
           <td style="white-space:nowrap;color:#888">${esc(r.filed || '—')}</td>
           <td>${ownerHtml}</td>
           <td>${propHtml}</td>
@@ -940,7 +943,7 @@
     const cols = [
       'First Name','Last Name','Mailing Address','Mailing City','Mailing State','Mailing Zip',
       'Property Address','Property City','Property State','Property Zip',
-      'Lead Type','Document Type','Date Filed','Document Number','Amount/Debt Owed',
+      'Lead Type','Document Type','County','Date Filed','Document Number','Amount/Debt Owed',
       'Seller Score','Motivated Seller Flags','Source','Public Records URL'
     ];
 
@@ -966,7 +969,7 @@
         first, last,
         r.mail_address || '', r.mail_city || '', r.mail_state || '', r.mail_zip || '',
         r.prop_address || '', r.prop_city || '', r.prop_state || '', r.prop_zip || '',
-        r.cat_label || '', r.doc_type || '', r.filed || '', r.doc_num || '',
+        r.cat_label || '', r.doc_type || '', r.county || '', r.filed || '', r.doc_num || '',
         amount, r.score || 0, flags, r._source_county || 'County Clerk', r.clerk_url || ''
       ].map(v => `"${String(v).replace(/"/g, '""')}"`);
 

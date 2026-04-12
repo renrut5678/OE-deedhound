@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-12T12:51:07Z",
+  "fetched_at": "2026-04-12T19:38:38Z",
   "source": "Davidson County",
   "county": "Davidson",
   "state": "TN",
-  "date_range": "2026-04-05 to 2026-04-12",
-  "total": 389,
-  "with_address": 388,
+  "date_range": "02/06/2026 to Thursday, ",
+  "total": 429,
+  "with_address": 427,
   "records": [
     {
       "doc_num": "202604060027011",
@@ -36,7 +36,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027012",
@@ -67,7 +68,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027013",
@@ -98,7 +100,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027014",
@@ -129,7 +132,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027015",
@@ -160,7 +164,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027117",
@@ -191,7 +196,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "MISCNOTICE"
+      "_inst_type_raw": "MISCNOTICE",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027150",
@@ -222,7 +228,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027648",
@@ -253,7 +260,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027690",
@@ -284,7 +292,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027869",
@@ -315,7 +324,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028362",
@@ -346,7 +356,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028459",
@@ -377,7 +388,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028747",
@@ -408,7 +420,8 @@
       ],
       "score": 65,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471864",
@@ -438,7 +451,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471869",
@@ -468,7 +482,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471876",
@@ -498,7 +513,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471892",
@@ -528,7 +544,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471990",
@@ -558,7 +575,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471674",
@@ -588,7 +606,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": ",BUILDING AND ZONING PERMIT REQUIRED,USE NOT PERMITTED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471685",
@@ -618,7 +637,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "SIGN MAINTENANCE",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471720",
@@ -648,7 +668,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "LIGHTING (EMISSION),LIGHTING (MAX LEVEL)",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471728",
@@ -678,7 +699,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471747",
@@ -708,7 +730,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471777",
@@ -738,7 +761,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471778",
@@ -768,7 +792,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471798",
@@ -798,7 +823,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "STRP PERMIT REQUIRED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471810",
@@ -828,7 +854,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": false
+      "_parcel_matched": false,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471848",
@@ -858,7 +885,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471522",
@@ -888,7 +916,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471535",
@@ -918,7 +947,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471547",
@@ -948,7 +978,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471558",
@@ -978,7 +1009,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471576",
@@ -1008,7 +1040,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471579",
@@ -1038,7 +1071,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "USE NOT PERMITTED",
-      "_parcel_matched": false
+      "_parcel_matched": false,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471581",
@@ -1068,7 +1102,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471583",
@@ -1098,7 +1133,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471596",
@@ -1128,7 +1164,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471605",
@@ -1158,7 +1195,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471621",
@@ -1188,7 +1226,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 ACCES STRUCTURES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471606",
@@ -1218,7 +1257,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471631",
@@ -1248,7 +1288,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471633",
@@ -1278,7 +1319,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471637",
@@ -1308,7 +1350,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471639",
@@ -1338,7 +1381,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471382",
@@ -1368,7 +1412,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471384",
@@ -1398,7 +1443,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "LANDLORD REGISTRATION,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471442",
@@ -1428,7 +1474,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "ACCESSORY STRUCTURES,EXTERIOR REPAIR,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471457",
@@ -1458,7 +1505,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471487",
@@ -1488,7 +1536,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471507",
@@ -1518,7 +1567,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471508",
@@ -1548,7 +1598,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471518",
@@ -1578,7 +1629,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026868",
@@ -1608,7 +1660,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026871",
@@ -1638,7 +1691,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026881",
@@ -1668,7 +1722,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026890",
@@ -1698,7 +1753,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026895",
@@ -1728,7 +1784,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026896",
@@ -1758,7 +1815,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026897",
@@ -1788,7 +1846,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026898",
@@ -1818,7 +1877,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026899",
@@ -1848,7 +1908,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026900",
@@ -1878,7 +1939,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026901",
@@ -1908,7 +1970,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026902",
@@ -1938,7 +2001,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026906",
@@ -1968,7 +2032,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026913",
@@ -1998,7 +2063,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026915",
@@ -2028,7 +2094,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026916",
@@ -2058,7 +2125,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026917",
@@ -2088,7 +2156,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026918",
@@ -2118,7 +2187,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026919",
@@ -2148,7 +2218,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026920",
@@ -2178,7 +2249,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026921",
@@ -2208,7 +2280,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026922",
@@ -2238,7 +2311,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026924",
@@ -2268,7 +2342,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026925",
@@ -2298,7 +2373,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026926",
@@ -2328,7 +2404,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026928",
@@ -2358,7 +2435,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026930",
@@ -2388,7 +2466,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026939",
@@ -2418,7 +2497,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026940",
@@ -2448,7 +2528,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026950",
@@ -2478,7 +2559,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026957",
@@ -2508,7 +2590,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026960",
@@ -2538,7 +2621,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026964",
@@ -2568,7 +2652,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026966",
@@ -2598,7 +2683,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026967",
@@ -2628,7 +2714,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026968",
@@ -2658,7 +2745,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026969",
@@ -2688,7 +2776,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026970",
@@ -2718,7 +2807,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026972",
@@ -2748,7 +2838,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026973",
@@ -2778,7 +2869,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026975",
@@ -2808,7 +2900,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026976",
@@ -2838,7 +2931,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026977",
@@ -2868,7 +2962,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026979",
@@ -2898,7 +2993,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026980",
@@ -2928,7 +3024,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026981",
@@ -2958,7 +3055,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026983",
@@ -2988,7 +3086,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026984",
@@ -3018,7 +3117,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026986",
@@ -3048,7 +3148,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026988",
@@ -3078,7 +3179,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026989",
@@ -3108,7 +3210,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026990",
@@ -3138,7 +3241,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026992",
@@ -3168,7 +3272,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026993",
@@ -3198,7 +3303,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026996",
@@ -3228,7 +3334,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026998",
@@ -3258,7 +3365,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026999",
@@ -3288,7 +3396,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027000",
@@ -3318,7 +3427,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027001",
@@ -3348,7 +3458,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027002",
@@ -3378,7 +3489,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027003",
@@ -3408,7 +3520,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027004",
@@ -3438,7 +3551,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027016",
@@ -3468,7 +3582,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027017",
@@ -3498,7 +3613,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027025",
@@ -3528,7 +3644,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027026",
@@ -3558,7 +3675,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027027",
@@ -3588,7 +3706,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027028",
@@ -3618,7 +3737,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027029",
@@ -3648,7 +3768,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027030",
@@ -3678,7 +3799,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027031",
@@ -3708,7 +3830,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027032",
@@ -3738,7 +3861,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027033",
@@ -3768,7 +3892,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027035",
@@ -3798,7 +3923,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027036",
@@ -3828,7 +3954,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027037",
@@ -3858,7 +3985,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027038",
@@ -3888,7 +4016,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027039",
@@ -3918,7 +4047,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027041",
@@ -3948,7 +4078,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027042",
@@ -3978,7 +4109,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027044",
@@ -4008,7 +4140,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027048",
@@ -4038,7 +4171,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027074",
@@ -4068,7 +4202,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027264",
@@ -4098,7 +4233,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "MISCNOTICE"
+      "_inst_type_raw": "MISCNOTICE",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027283",
@@ -4128,7 +4264,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027302",
@@ -4158,7 +4295,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027314",
@@ -4188,7 +4326,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027316",
@@ -4218,7 +4357,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027319",
@@ -4248,7 +4388,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027320",
@@ -4278,7 +4419,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027384",
@@ -4308,7 +4450,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027420",
@@ -4338,7 +4481,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027477",
@@ -4368,7 +4512,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027479",
@@ -4398,7 +4543,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027560",
@@ -4428,7 +4574,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027567",
@@ -4458,7 +4605,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027568",
@@ -4488,7 +4636,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "MISCNOTICE"
+      "_inst_type_raw": "MISCNOTICE",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027583",
@@ -4518,7 +4667,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "MISCNOTICE"
+      "_inst_type_raw": "MISCNOTICE",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027632",
@@ -4548,7 +4698,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027649",
@@ -4578,7 +4729,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027650",
@@ -4608,7 +4760,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027775",
@@ -4638,7 +4791,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027804",
@@ -4668,7 +4822,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027806",
@@ -4698,7 +4853,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027810",
@@ -4728,7 +4884,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027812",
@@ -4758,7 +4915,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027870",
@@ -4788,7 +4946,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070027950",
@@ -4818,7 +4977,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028026",
@@ -4848,7 +5008,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028027",
@@ -4878,7 +5039,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028028",
@@ -4908,7 +5070,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028029",
@@ -4938,7 +5101,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028030",
@@ -4968,7 +5132,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028031",
@@ -4998,7 +5163,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604070028032",
@@ -5028,7 +5194,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028126",
@@ -5058,7 +5225,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENFTL"
+      "_inst_type_raw": "LIENFTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028127",
@@ -5088,7 +5256,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENFTL"
+      "_inst_type_raw": "LIENFTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028128",
@@ -5118,7 +5287,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENFTL"
+      "_inst_type_raw": "LIENFTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028129",
@@ -5148,7 +5318,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENFTL"
+      "_inst_type_raw": "LIENFTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028137",
@@ -5178,7 +5349,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028144",
@@ -5208,7 +5380,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "METRO"
+      "_inst_type_raw": "METRO",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028448",
@@ -5238,7 +5411,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028451",
@@ -5268,7 +5442,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028452",
@@ -5298,7 +5473,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028454",
@@ -5328,7 +5504,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604080028576",
@@ -5358,7 +5535,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028622",
@@ -5388,7 +5566,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028685",
@@ -5418,7 +5597,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028697",
@@ -5448,7 +5628,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028698",
@@ -5478,7 +5659,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028699",
@@ -5508,7 +5690,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028700",
@@ -5538,7 +5721,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028701",
@@ -5568,7 +5752,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028702",
@@ -5598,7 +5783,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028703",
@@ -5628,7 +5814,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028704",
@@ -5658,7 +5845,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028705",
@@ -5688,7 +5876,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028706",
@@ -5718,7 +5907,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028707",
@@ -5748,7 +5938,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028708",
@@ -5778,7 +5969,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "JDGMT"
+      "_inst_type_raw": "JDGMT",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028709",
@@ -5808,7 +6000,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028710",
@@ -5838,7 +6031,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028711",
@@ -5868,7 +6062,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028712",
@@ -5898,7 +6093,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENCVWARR"
+      "_inst_type_raw": "LIENCVWARR",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028824",
@@ -5928,7 +6124,8 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028885",
@@ -5958,7 +6155,308 @@
       ],
       "score": 55,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENMISC"
+      "_inst_type_raw": "LIENMISC",
+      "county": "Davidson"
+    },
+    {
+      "doc_num": "TNFC-508532",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-02-02",
+      "owner": "SCHREINER DEVELOPMENT, LLC",
+      "grantee": null,
+      "prop_address": "800 Broadway",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37203-3835",
+      "mail_address": "116 JEFFERSON ST S STE 204",
+      "mail_city": "HUNTSVILLE",
+      "mail_state": "AL",
+      "mail_zip": "35801",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=508532",
+      "legal": "093-06-3-021.01",
+      "description": "Foreclosure Date: 2026-02-23 | Sale location: outside the south side entrance of the Davidson County Courthouse, located at 1 Public Square, Nashville, Davidson County, Tennessee at 11:00 a.m. Central Time. Deed of Trust Instrument Number 20211213-0164641. Successor Trustee: Erika R. Barnes.",
+      "fetched_at": "2026-02-16T10:12:33.775Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-507998",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-02-06",
+      "owner": "1st Chance Investments, LLC",
+      "grantee": null,
+      "prop_address": "1606 Stratford Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37216",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=507998",
+      "legal": null,
+      "description": "Foreclosure Date: 2026-03-12 | Sale at front/main entrance of Davidson County Historic Courthouse at 10:00 AM. Lot No. 18 of Block B, Inglewood Terrace, Plat Book 1130, Page 1. Instrument No. 20240111-0002427. Beneficiary: Bell Rock Income Fund 1, LLC. Trustee: Robert J. Notestine III.",
+      "fetched_at": "2026-02-16T10:23:49.435Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-507991",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 30",
+      "owner": "Acklen Property Group, LLC",
+      "grantee": null,
+      "prop_address": "1219 South Dickerson Pike",
+      "prop_city": "Goodlettsville",
+      "prop_state": "TN",
+      "prop_zip": "37072",
+      "mail_address": "1021 GLOVER HILLS DR",
+      "mail_city": "SPRINGFIELD",
+      "mail_state": "TN",
+      "mail_zip": "37172",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=507991",
+      "legal": "033-00-0-032.00",
+      "description": "Foreclosure Date: February 25, 2026 | Successor Trustee: Charles S. Sanger. Sale at ten o'clock in the morning (10:00 a.m.) at the main door of the Davidson County courthouse in Nashville, Tennessee. Interested Parties: Vista Land Co, LLC and Virgo Funding, LLC.",
+      "fetched_at": "2026-02-16T10:27:52.672Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506849",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-02-02",
+      "owner": "SCHREINER DEVELOPMENT, LLC",
+      "grantee": null,
+      "prop_address": "800 Broadway",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37203-3835",
+      "mail_address": "116 JEFFERSON ST S STE 204",
+      "mail_city": "HUNTSVILLE",
+      "mail_state": "AL",
+      "mail_zip": "35801",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506849",
+      "legal": "093-06-3-021.01",
+      "description": "Foreclosure Date: 2026-02-23 | Deed of Trust dated December 10, 2021, Instrument Number 20211213-0164641. Sale at 11:00 a.m. outside south side entrance of Davidson County Courthouse, 1 Public Square, Nashville, TN. Successor Trustee: Erika R. Barnes.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:35:47.823Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506375",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-02-06",
+      "owner": "1st Chance Investments, LLC",
+      "grantee": null,
+      "prop_address": "1606 Stratford Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37216",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506375",
+      "legal": null,
+      "description": "Foreclosure Date: 2026-03-12 | Deed of Trust: Instrument No. 20240111-0002427. Trustee: Robert J. Notestine III. Sale location: front/main entrance of Davidson County Historic Courthouse. Lot 18 of Block B on Plan of Inglewood Terrace, Plat Book 1130, Page 1.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:40:16.685Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506367",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 30",
+      "owner": "Acklen Property Group, LLC",
+      "grantee": null,
+      "prop_address": "1219 South Dickerson Pike",
+      "prop_city": "Goodlettsville",
+      "prop_state": "TN",
+      "prop_zip": "37072",
+      "mail_address": "1021 GLOVER HILLS DR",
+      "mail_city": "SPRINGFIELD",
+      "mail_state": "TN",
+      "mail_zip": "37172",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506367",
+      "legal": "033-00-0-032.00",
+      "description": "Foreclosure Date: February 25, 2026 | Sale at ten o'clock in the morning (10:00 a.m.) at the main door of the Davidson County courthouse in Nashville, Tennessee. Interested Parties: Vista Land Co, LLC and Virgo Funding, LLC. Successor Trustee: Charles S. Sanger.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:43:58.163Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505197",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 30",
+      "owner": "Acklen Property Group, LLC",
+      "grantee": null,
+      "prop_address": "1219 South Dickerson Pike",
+      "prop_city": "Goodlettsville",
+      "prop_state": "TN",
+      "prop_zip": "37072",
+      "mail_address": "1021 GLOVER HILLS DR",
+      "mail_city": "SPRINGFIELD",
+      "mail_state": "TN",
+      "mail_zip": "37172",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505197",
+      "legal": "033-00-0-032.00",
+      "description": "Foreclosure Date: February 25, 2026 | Successor Trustee: Charles S. Sanger. Beneficiary: Paradyme Secured Income Fund SPE I, LLC. Sale at ten o'clock in the morning (10:00 a.m.) at the main door of the Davidson County courthouse in Nashville, Tennessee. Interested Parties: Vista Land Co, LLC and Virgo Funding, LLC.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:56:52.504Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-520901",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "April 2, 2",
+      "owner": "Dowling Capital Investments LLC",
+      "grantee": null,
+      "prop_address": "407 West Bend Drive",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37209",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=520901",
+      "legal": "091-13-0-197.00",
+      "description": "Foreclosure Date: April 24, 2026 | Lender: Timothy W. Burrow. Substitute Trustee: David M. Anthony. Deed of Trust dated May 1, 2024, recorded at Instrument No. 20240503-0032429. Property described as Lot No. 11 of Block A, Crolywood Subdivision, Section I. Sale at 11:00 a.m. on steps of historic Davidson County Courthouse, 1 Public Square, Nashville, TN 37201.",
+      "fetched_at": "2026-04-12T16:28:35.439Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-521360",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-03-24",
+      "owner": "Dowling Capital Investments, LLC",
+      "grantee": null,
+      "prop_address": "501 Douglas Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37207",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521360",
+      "legal": "071-16-0-010.00",
+      "description": "Foreclosure Date: 2026-04-23 | Other interested parties: Douglas Coomer, Hailee Long Coomer, Maria Leon, Claudia P. Hile, Brigette Diaz, Francisco J. Diaz Ortegel, Daniel Ramirez Pina, Experienced Construction, LLC, BFS Group, LLC. Sale location: main entrance to the Historic Nashville Davidson County Courthouse, 1 Public Square, Nashville, Davidson County, Tennessee at 10:30 a.m.",
+      "fetched_at": "2026-04-12T16:33:43.619Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 55,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
+    },
+    {
+      "doc_num": "TNFC-520537",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": null,
+      "owner": "Willie D Brown Jr Living Estate Trust",
+      "grantee": null,
+      "prop_address": null,
+      "prop_city": null,
+      "prop_state": null,
+      "prop_zip": null,
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=520537",
+      "legal": null,
+      "description": "Certificate of Trust filed and recorded July 24th, 2025. Document No. 20251125-0094303. Trustee Willie D Brown Jr.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-04-12T16:42:48.017Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": true,
+      "needs_review": false,
+      "score": 50,
+      "flags": [
+        "Foreclosure notice",
+        "LLC / corp owner"
+      ]
     },
     {
       "doc_num": "CV-26-1471865",
@@ -5987,7 +6485,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471867",
@@ -6016,7 +6515,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471870",
@@ -6045,7 +6545,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471871",
@@ -6074,7 +6575,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471881",
@@ -6103,7 +6605,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471883",
@@ -6132,7 +6635,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "Building Permit Required",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471884",
@@ -6161,7 +6665,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471890",
@@ -6190,7 +6695,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471896",
@@ -6219,7 +6725,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471899",
@@ -6248,7 +6755,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471903",
@@ -6277,7 +6785,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471904",
@@ -6306,7 +6815,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471906",
@@ -6335,7 +6845,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471908",
@@ -6364,7 +6875,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471930",
@@ -6393,7 +6905,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471944",
@@ -6422,7 +6935,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471945",
@@ -6451,7 +6965,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471949",
@@ -6480,7 +6995,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471958",
@@ -6509,7 +7025,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471959",
@@ -6538,7 +7055,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "STRP PERMIT REQUIRED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471960",
@@ -6567,7 +7085,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471961",
@@ -6596,7 +7115,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471962",
@@ -6625,7 +7145,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471991",
@@ -6654,7 +7175,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472000",
@@ -6683,7 +7205,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472003",
@@ -6712,7 +7235,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": false
+      "_parcel_matched": false,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472011",
@@ -6741,7 +7265,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472012",
@@ -6770,7 +7295,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "ADDRESS ID RESIDENTIAL,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": false
+      "_parcel_matched": false,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472017",
@@ -6799,7 +7325,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "COMMERCIAL TRUCK PARKING,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472019",
@@ -6828,7 +7355,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472020",
@@ -6857,7 +7385,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BUILDINGS \u2013 PREMISES ID RES,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472021",
@@ -6886,7 +7415,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472022",
@@ -6915,7 +7445,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472023",
@@ -6944,7 +7475,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1472024",
@@ -6973,7 +7505,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "ADDRESS ID RESIDENTIAL,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
-      "_parcel_matched": false
+      "_parcel_matched": false,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471678",
@@ -7002,7 +7535,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERMINATION \u2013 MULTIPLE OCCUPANCY,EXTERMINATION REQUIRED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471682",
@@ -7031,7 +7565,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471683",
@@ -7060,7 +7595,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471687",
@@ -7089,7 +7625,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471688",
@@ -7118,7 +7655,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471689",
@@ -7147,7 +7685,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "SIGN MAINTENANCE",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471691",
@@ -7176,7 +7715,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471700",
@@ -7205,7 +7745,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471722",
@@ -7234,7 +7775,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471721",
@@ -7263,7 +7805,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471723",
@@ -7292,7 +7835,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471725",
@@ -7321,7 +7865,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "USE NOT PERMITTED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471726",
@@ -7350,7 +7895,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "SIGNS  \u2013 PROHIBITED - WIND",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471727",
@@ -7379,7 +7925,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471750",
@@ -7408,7 +7955,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471755",
@@ -7437,7 +7985,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471764",
@@ -7466,7 +8015,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "STRP PERMIT REQUIRED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471766",
@@ -7495,7 +8045,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471768",
@@ -7524,7 +8075,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471771",
@@ -7553,7 +8105,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471772",
@@ -7582,7 +8135,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR PROP AREA \u2013 TRAILERS WATERCRAFT,HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471773",
@@ -7611,7 +8165,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471779",
@@ -7640,7 +8195,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471781",
@@ -7669,7 +8225,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BLDGS \u2013 DECORATIVE FEATURES,EXTERIOR REPAIR,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471785",
@@ -7698,7 +8255,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471787",
@@ -7727,7 +8285,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BLDGS \u2013 TREATMENT (SIDING),EXTERIOR REPAIR",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471799",
@@ -7756,7 +8315,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "BOARDING OF VACANT BUILDINGS,BOARDING REQUIREMENTS,EXTERIOR REPAIR,FAILURE TO SECURE,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471800",
@@ -7785,7 +8345,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "STRP PERMIT REQUIRED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471801",
@@ -7814,7 +8375,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "STRP PERMIT REQUIRED",
-      "_parcel_matched": false
+      "_parcel_matched": false,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471802",
@@ -7843,7 +8405,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471806",
@@ -7872,7 +8435,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471807",
@@ -7901,7 +8465,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471808",
@@ -7930,7 +8495,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471813",
@@ -7959,7 +8525,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR REPAIR,HVAC SYSTEM REPAIR,INTERIOR REPAIR",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471814",
@@ -7988,7 +8555,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471815",
@@ -8017,7 +8585,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471828",
@@ -8046,7 +8615,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471831",
@@ -8075,7 +8645,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471834",
@@ -8104,7 +8675,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471837",
@@ -8133,7 +8705,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471838",
@@ -8162,7 +8735,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471839",
@@ -8191,7 +8765,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471840",
@@ -8220,7 +8795,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471841",
@@ -8249,7 +8825,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471847",
@@ -8278,7 +8855,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471849",
@@ -8307,7 +8885,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471857",
@@ -8336,7 +8915,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BUILDINGS \u2013 DOORS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471520",
@@ -8365,7 +8945,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS,Sign Permits Required",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471527",
@@ -8394,7 +8975,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "ACCESSORY STRUCTURES,COMMERCIAL TRUCK PARKING,OPEN STORAGE, JUNK, TRASH, DEBRIS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471539",
@@ -8423,7 +9005,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471541",
@@ -8452,7 +9035,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471544",
@@ -8481,7 +9065,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471551",
@@ -8510,7 +9095,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "USE NOT PERMITTED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471556",
@@ -8539,7 +9125,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471561",
@@ -8568,7 +9155,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "USE NOT PERMITTED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471565",
@@ -8597,7 +9185,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471566",
@@ -8626,7 +9215,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471567",
@@ -8655,7 +9245,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471568",
@@ -8684,7 +9275,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471570",
@@ -8713,7 +9305,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471571",
@@ -8742,7 +9335,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471572",
@@ -8771,7 +9365,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471573",
@@ -8800,7 +9395,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471575",
@@ -8829,7 +9425,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471577",
@@ -8858,7 +9455,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471582",
@@ -8887,7 +9485,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471584",
@@ -8916,7 +9515,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471585",
@@ -8945,7 +9545,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471588",
@@ -8974,7 +9575,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471592",
@@ -9003,7 +9605,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471626",
@@ -9032,7 +9635,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471630",
@@ -9061,7 +9665,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PROHIBITED SIGNS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471607",
@@ -9090,7 +9695,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471632",
@@ -9119,7 +9725,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471635",
@@ -9148,7 +9755,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471636",
@@ -9177,7 +9785,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES,USE NOT PERMITTED",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471640",
@@ -9206,7 +9815,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471647",
@@ -9235,7 +9845,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471642",
@@ -9264,7 +9875,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471648",
@@ -9293,7 +9905,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471649",
@@ -9322,7 +9935,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471650",
@@ -9351,7 +9965,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471651",
@@ -9380,7 +9995,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471654",
@@ -9409,7 +10025,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471656",
@@ -9438,7 +10055,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 FENCE MATERIAL MAIN,HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471658",
@@ -9467,7 +10085,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471661",
@@ -9496,7 +10115,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471664",
@@ -9525,7 +10145,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,EXTERIOR REPAIR,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471666",
@@ -9554,7 +10175,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471669",
@@ -9583,7 +10205,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471376",
@@ -9612,7 +10235,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471380",
@@ -9641,7 +10265,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471383",
@@ -9670,7 +10295,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471386",
@@ -9699,7 +10325,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471387",
@@ -9728,7 +10355,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471388",
@@ -9757,7 +10385,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "COMMERCIAL TRUCK PARKING",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471389",
@@ -9786,7 +10415,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471390",
@@ -9815,7 +10445,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471391",
@@ -9844,7 +10475,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471392",
@@ -9873,7 +10505,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471394",
@@ -9902,7 +10535,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471395",
@@ -9931,7 +10565,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471397",
@@ -9960,7 +10595,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471398",
@@ -9989,7 +10625,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR OF BUILDINGS \u2013 OPENABLE WINDOWS,HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471400",
@@ -10018,7 +10655,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": ",Building Permit Required",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471402",
@@ -10047,7 +10685,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471403",
@@ -10076,7 +10715,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471414",
@@ -10105,7 +10745,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471415",
@@ -10134,7 +10775,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471417",
@@ -10163,7 +10805,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471420",
@@ -10192,7 +10835,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471421",
@@ -10221,7 +10865,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "ADDRESS ID RESIDENTIAL,EXTERIOR PROP AREA \u2013 VEH \u2013 INOP/UNLC,HIGH WEEDS,OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471422",
@@ -10250,7 +10895,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471423",
@@ -10279,7 +10925,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471430",
@@ -10308,7 +10955,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471432",
@@ -10337,7 +10985,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471433",
@@ -10366,7 +11015,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471434",
@@ -10395,7 +11045,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471435",
@@ -10424,7 +11075,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - VEH",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471438",
@@ -10453,7 +11105,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471456",
@@ -10482,7 +11135,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR REPAIR,OPEN STORAGE, JUNK, TRASH, DEBRIS,PARKING ON GRASS,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471458",
@@ -10511,7 +11165,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471459",
@@ -10540,7 +11195,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471460",
@@ -10569,7 +11225,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471478",
@@ -10598,7 +11255,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "HIGH WEEDS,PARKING ON GRASS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471481",
@@ -10627,7 +11285,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE \u2013 JTD",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471488",
@@ -10656,7 +11315,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471506",
@@ -10685,7 +11345,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471509",
@@ -10714,7 +11375,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "OPEN STORAGE, JUNK, TRASH, DEBRIS",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471511",
@@ -10743,7 +11405,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471517",
@@ -10772,7 +11435,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL,UNLIC / INOP / ACCUMULATION MTR VEHICLES",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "CV-26-1471519",
@@ -10801,7 +11465,8 @@
       "_source_county": "Davidson Codes",
       "_violation_status": "OPEN",
       "_violation_type": "EXTERIOR PROP AREA \u2013 OPEN STORAGE - ALL",
-      "_parcel_matched": true
+      "_parcel_matched": true,
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026870",
@@ -10830,7 +11495,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026914",
@@ -10859,7 +11525,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026923",
@@ -10888,7 +11555,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026971",
@@ -10917,7 +11585,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026974",
@@ -10946,7 +11615,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026978",
@@ -10975,7 +11645,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026982",
@@ -11004,7 +11675,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026985",
@@ -11033,7 +11705,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026991",
@@ -11062,7 +11735,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026994",
@@ -11091,7 +11765,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026995",
@@ -11120,7 +11795,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060026997",
@@ -11149,7 +11825,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027034",
@@ -11178,7 +11855,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027040",
@@ -11207,7 +11885,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027043",
@@ -11236,7 +11915,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027045",
@@ -11265,7 +11945,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027046",
@@ -11294,7 +11975,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604060027047",
@@ -11323,7 +12005,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028623",
@@ -11352,7 +12035,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENLWD"
+      "_inst_type_raw": "LIENLWD",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028908",
@@ -11381,7 +12065,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "METRO"
+      "_inst_type_raw": "METRO",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028924",
@@ -11410,7 +12095,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "METRO"
+      "_inst_type_raw": "METRO",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028925",
@@ -11439,7 +12125,8 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "METRO"
+      "_inst_type_raw": "METRO",
+      "county": "Davidson"
     },
     {
       "doc_num": "202604090028926",
@@ -11468,7 +12155,878 @@
       ],
       "score": 45,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "METRO"
+      "_inst_type_raw": "METRO",
+      "county": "Davidson"
+    },
+    {
+      "doc_num": "TNFC-521353",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "Monday, Ap",
+      "owner": "Stephen Higgins",
+      "grantee": null,
+      "prop_address": "2637 Mossdale Dr.",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37217",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521353",
+      "legal": null,
+      "description": "Foreclosure Date: Monday, April 27 | Multiple properties: 2637 Mossdale Dr., Nashville, TN 37217; 2524 Stinson Road, Nashville, TN 37214; 561 Owendale Drive, Antioch, TN 37013. Trustee: R. Houston Akin, 611 Woodland Street, Nashville, TN 37206, (615) 879-7714. Beneficiary: CB Investments, LLC. Original principal: $101,000.00. Sale at 12:00 p.m. at entrance to Davidson County Courthouse.",
+      "fetched_at": "2026-04-12T16:37:53.435Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-508000",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "April 2, 2",
+      "owner": "Keyanna Horton",
+      "grantee": null,
+      "prop_address": "1424 Tempany Ct",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37207",
+      "mail_address": "1424 TEMPANY CT",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=508000",
+      "legal": "00 50 4 40.00 R 000",
+      "description": "Foreclosure Date: April 2, 2026",
+      "fetched_at": "2026-02-16T10:22:40.474Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-507994",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 29",
+      "owner": "Afshin Zare",
+      "grantee": null,
+      "prop_address": "315 Margo Ln.",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37211",
+      "mail_address": "315 MARGO LN",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37211",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=507994",
+      "legal": "148 05 0 132.00",
+      "description": "Foreclosure Date: March 26, 2026 | Sale time: 11:00 AM at Historic Davidson County Courthouse, 1 Public Square, Nashville, Tennessee, 37201. Trustee: Mickel Law Firm, P.A. File No. 109880-1",
+      "fetched_at": "2026-02-16T10:26:11.558Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506856",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "Thursday, ",
+      "owner": "Monterra Apartments TN LLC, a Delaware limited liability company",
+      "grantee": null,
+      "prop_address": "101 Zermatt Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37211",
+      "mail_address": "5360 GENESSEE ST STE 201 ATTN: ANTHONY J",
+      "mail_city": "BOWMANSVILLE",
+      "mail_state": "NY",
+      "mail_zip": "14026",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506856",
+      "legal": "16100021600",
+      "description": "Foreclosure Date: Thursday, February 19, 2026 | Also previously identified as 15201 Old Hickory Boulevard, Nashville, Tennessee 37211. Other interested parties: Metropolitan Government of Nashville and Davidson County. Deed of Trust recorded as Instrument No. 20200513-0049713.",
+      "fetched_at": "2026-02-16T10:35:12.307Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506374",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-02-06",
+      "owner": "Northside Church of Christ",
+      "grantee": null,
+      "prop_address": "815 Wren Road",
+      "prop_city": "Goodlettsville",
+      "prop_state": "TN",
+      "prop_zip": "37072",
+      "mail_address": "815 WREN RD",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506374",
+      "legal": "026-13-0-035.00",
+      "description": "Foreclosure Date: 2026-02-27 | Lienholder: Volunteer Bank. Trustee: Byron M. Gill. Sale at south door of Metro/Davidson County Courthouse, 1 Public Square, Nashville, Davidson County, Tennessee at 10:00 a.m.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:41:01.015Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506371",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 2,",
+      "owner": "1804 Patterson Venture, LLC, a Delaware limited liability company",
+      "grantee": null,
+      "prop_address": "1804 Patterson Street",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37203",
+      "mail_address": "718 W BUSINESS HWY 60",
+      "mail_city": "DEXTER",
+      "mail_state": "MO",
+      "mail_zip": "63841",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506371",
+      "legal": "092-12-0-094.00",
+      "description": "Foreclosure Date: April 7, 2026 | Multiple parcels: Parcel I (092-12-0-094.00) and Parcel II (092-12-0-092.00). Originally scheduled for January 29, 2026, continued to April 7, 2026.",
+      "fetched_at": "2026-02-16T10:41:39.800Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-506366",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "March 3, 2",
+      "owner": "Eric Chatman",
+      "grantee": null,
+      "prop_address": "103 Eastmoreland Street",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37207",
+      "mail_address": "103 EASTMORELAND ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=506366",
+      "legal": "071 15 0 088.00",
+      "description": "Foreclosure Date: March 3, 2026 | Sale at 10:00 AM at front entrance of Historic Davidson County Courthouse, One Public Square, Nashville, TN 37201. Subject to right of redemption by State of Tennessee per T.C.A. 67-1-1433. Tax lien recorded as Instrument No. 20250320-0020606. Substitute Trustee: Padgett Law Group.",
+      "fetched_at": "2026-02-16T10:44:31.251Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505401",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "Thursday, ",
+      "owner": "Monterra Apartments TN LLC, a Delaware limited liability company",
+      "grantee": null,
+      "prop_address": "101 Zermatt Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37211",
+      "mail_address": "5360 GENESSEE ST STE 201 ATTN: ANTHONY J",
+      "mail_city": "BOWMANSVILLE",
+      "mail_state": "NY",
+      "mail_zip": "14026",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505401",
+      "legal": "16100021600",
+      "description": "Foreclosure Date: Thursday, February 19, 2026 | Also previously identified as 15201 Old Hickory Boulevard, Nashville, Tennessee 37211. Property shown as Parcel 216.00 on Davidson County Property Map 161. Other interested parties: Metropolitan Government of Nashville and Davidson County. Sale at 12:00 Noon CST at the front door (door facing south fronting Union Street) of the Davidson County Courthouse, One Public Square, Nashville, Tennessee 37201.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:50:05.291Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505196",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "March 3, 2",
+      "owner": "Eric Chatman",
+      "grantee": null,
+      "prop_address": "103 Eastmoreland Street",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37207",
+      "mail_address": "103 EASTMORELAND ST",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37207",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505196",
+      "legal": "071 15 0 088.00",
+      "description": "Foreclosure Date: March 3, 2026 | Sale at front entrance of Historic Davidson County Courthouse, One Public Square, Nashville, TN 37201, at or about 10:00 AM. Substitute Trustee: Padgett Law Group. Instrument No. 20220610-0066426. Tax lien recorded in Instrument No. 20250320-0020606.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T10:57:30.907Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505195",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "February 2",
+      "owner": "Afia Nyiransabimana",
+      "grantee": null,
+      "prop_address": "4928 Oak Barrel Drive",
+      "prop_city": "Antioch",
+      "prop_state": "TN",
+      "prop_zip": "37013",
+      "mail_address": "4928 OAK BARRELL DR",
+      "mail_city": "ANTIOCH",
+      "mail_state": "TN",
+      "mail_zip": "37013",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505195",
+      "legal": "128.00",
+      "description": "Foreclosure Date: March 12, 2026 | Sale at front entrance of Davidson County Courthouse, 1 Public Square, Nashville, Tennessee 37201 at 10:00 a.m. Tax Map 149-02-0. Subject to Second Lien Deed of Trust to Housing Fund, Inc. in amount of $12,000.00 and may be subject to junior lien of Oakwood Homeowner's Association.",
+      "fetched_at": "2026-02-16T10:58:03.224Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505190",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "February 1",
+      "owner": "Taylor Noll",
+      "grantee": null,
+      "prop_address": "3880 Priest Lake Drive, Unit 25",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37217",
+      "mail_address": "3880 PRIEST LAKE DR 25",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505190",
+      "legal": "136 03 0A 109.00",
+      "description": "Foreclosure Date: February 19, 2026 | Sale at public auction at or about 11:00 AM at front entrance of Davidson County Historic Courthouse, One Public Square, Nashville, TN 37201. Party entitled to enforce debt: Regions Bank DBA Regions Mortgage. Other interested parties: Priest Lake Park Condominiums. Substitute Trustee: Padgett Law Group.",
+      "fetched_at": "2026-02-16T11:01:47.190Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505189",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "February 1",
+      "owner": "Norma Fort",
+      "grantee": null,
+      "prop_address": "3005 Brightwood Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37212",
+      "mail_address": "3005 BRIGHTWOOD AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37212",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505189",
+      "legal": "117 08 0 014.00",
+      "description": "Foreclosure Date: February 19, 2026 | AKA Norma J Hale; Instrument No. 20140106-0000987; Deed dated December 10, 2013",
+      "fetched_at": "2026-02-16T11:02:59.798Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505188",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "March 5, 2",
+      "owner": "Estate/Unknown Heirs of Joyce Anne Lemley",
+      "grantee": null,
+      "prop_address": "905 Patio Drive",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37214",
+      "mail_address": "905 PATIO DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37214",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505188",
+      "legal": "108 07 0A 003.00",
+      "description": "Foreclosure Date: March 5, 2026 | Current owner(s) of Record: Joyce A Lemley; Estate/Unknown Heirs of Joyce Anne Lemley. Other interested parties: Janice Boyd; Gregory Lemley; Melissa Lemley; Paige Lemley; Rodney Lemley; Vickie Woodard; Cach, LLC; Patio Villa Homeowner's Association, Inc.",
+      "fetched_at": "2026-02-16T11:03:34.946Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505187",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 20",
+      "owner": "Tricia Derrickson",
+      "grantee": null,
+      "prop_address": "4000 Anderson Road, Unit 4",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37217",
+      "mail_address": "4000 ANDERSON RD #4",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505187",
+      "legal": "136030A00400CO",
+      "description": "Foreclosure Date: April 6, 2026 | Sale at 10:00 AM at front door of Davidson County Courthouse. File 25-11106. Substitute Trustee: Thomas W. McWaters, Esq.",
+      "fetched_at": "2026-02-16T11:04:03.863Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505186",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 20",
+      "owner": "Ryan Douglas Pace",
+      "grantee": null,
+      "prop_address": "6500 Lickton Pike",
+      "prop_city": "Goodlettsville",
+      "prop_state": "TN",
+      "prop_zip": "37072",
+      "mail_address": "6500 LICKTON PIKE",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505186",
+      "legal": "012 00 0 116.00",
+      "description": "Foreclosure Date: April 6, 2026 | Sale time: 10:00 AM at front door of Davidson County Courthouse. Husband and Wife as joint tenants with right of survivorship.",
+      "fetched_at": "2026-02-16T11:04:37.679Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-505185",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 12",
+      "owner": "Bernestine Wright",
+      "grantee": null,
+      "prop_address": "2149 Bransford Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37204",
+      "mail_address": "2149 BRANSFORD AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37204",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=505185",
+      "legal": "105 15 0 052.00",
+      "description": "Foreclosure Date: March 31, 2026 | Substitute Trustee: Mickel Law Firm, P.A. Sale location: Historic Davidson County Courthouse, 1 Public Square, Nashville, Tennessee, 37201 at 10:00 AM. File No. 109682-1",
+      "fetched_at": "2026-02-16T11:05:14.682Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503817",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "Thursday, ",
+      "owner": "Monterra Apartments TN LLC, a Delaware limited liability company",
+      "grantee": null,
+      "prop_address": "101 Zermatt Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37211",
+      "mail_address": "5360 GENESSEE ST STE 201 ATTN: ANTHONY J",
+      "mail_city": "BOWMANSVILLE",
+      "mail_state": "NY",
+      "mail_zip": "14026",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503817",
+      "legal": "16100021600",
+      "description": "Foreclosure Date: Thursday, February 19, 2026 | Also previously identified as 15201 Old Hickory Boulevard, Nashville, Tennessee 37211. Other interested parties: Metropolitan Government of Nashville and Davidson County. Sale at 12:00 Noon CST at front door of Davidson County Courthouse, One Public Square, Nashville, Tennessee 37201.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T11:10:34.097Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503308",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "February 1",
+      "owner": "Taylor Noll",
+      "grantee": null,
+      "prop_address": "3880 Priest Lake Drive, Unit 25",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37217",
+      "mail_address": "3880 PRIEST LAKE DR 25",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503308",
+      "legal": "136 03 0A 109.00",
+      "description": "Foreclosure Date: February 19, 2026 | Sale at front entrance of Davidson County Historic Courthouse, One Public Square, Nashville, TN 37201 at 11:00 AM. Padgett Law Group, Substitute Trustee. Party entitled to enforce debt: Regions Bank DBA Regions Mortgage. Other interested parties: Priest Lake Park Condominiums.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T11:17:09.600Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503307",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "February 1",
+      "owner": "Norma Hale",
+      "grantee": null,
+      "prop_address": "3005 Brightwood Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37212",
+      "mail_address": "3005 BRIGHTWOOD AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37212",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503307",
+      "legal": "117 08 0 014.00",
+      "description": "Foreclosure Date: February 19, 2026 | Property described in Deed of Trust recorded in Instrument No. 20140106-0000987. Also known as Norma J. Fort.",
+      "fetched_at": "2026-02-16T11:17:53.307Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503306",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "March 5, 2",
+      "owner": "Joyce A Lemley",
+      "grantee": null,
+      "prop_address": "905 Patio Drive",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37214",
+      "mail_address": "905 PATIO DR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37214",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503306",
+      "legal": "108 07 0A 003.00",
+      "description": "Foreclosure Date: March 5, 2026 | Property is described as Lot No. 40, Unit 3 in a Horizontal Property Regime (condominium). Current owner(s) of Record: Joyce A Lemley; Estate/Unknown Heirs of Joyce Anne Lemley. Other interested parties: Janice Boyd; Gregory Lemley; Melissa Lemley; Paige Lemley; Rodney Lemley; Vickie Woodard; Cach, LLC; Patio Villa Homeowner's Association, Inc.",
+      "fetched_at": "2026-02-16T11:19:44.075Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503305",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 20",
+      "owner": "Tricia Derrickson",
+      "grantee": null,
+      "prop_address": "4000 Anderson Road, Unit 4",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37217",
+      "mail_address": "4000 ANDERSON RD #4",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37217",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503305",
+      "legal": "136030A00400CO",
+      "description": "Foreclosure Date: April 6, 2026 | Sale at 10:00 AM at front door of Davidson County Courthouse. Substitute Trustee: Thomas W. McWaters, Esq. File 25-11106; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T11:20:13.967Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503304",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 20",
+      "owner": "Ryan Douglas Pace",
+      "grantee": null,
+      "prop_address": "6500 Lickton Pike",
+      "prop_city": "Goodlettsville",
+      "prop_state": "TN",
+      "prop_zip": "37072",
+      "mail_address": "6500 LICKTON PIKE",
+      "mail_city": "GOODLETTSVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37072",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503304",
+      "legal": "012 00 0 116.00",
+      "description": "Foreclosure Date: April 6, 2026 | Deed of Trust dated November 4, 2022. Sale time: 10:00 AM at front door of Davidson County Courthouse. Property contains 6.93 acres.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T11:22:00.853Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503300",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "January 12",
+      "owner": "Bernestine Wright",
+      "grantee": null,
+      "prop_address": "2149 Bransford Avenue",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37204",
+      "mail_address": "2149 BRANSFORD AVE",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37204",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503300",
+      "legal": "105 15 0 052.00",
+      "description": "Foreclosure Date: March 31, 2026 | Sale to be held at Historic Davidson County Courthouse, 1 Public Square, Nashville, Tennessee, 37201 at 10:00 AM. Substitute Trustee: Mickel Law Firm, P.A.; POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-02-16T11:24:24.207Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503297",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "2026-01-19",
+      "owner": "Alma Hukic",
+      "grantee": null,
+      "prop_address": "810 Bellevue Road, Unit 263",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37221",
+      "mail_address": "168 CHARLESTON PR",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37205",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503297",
+      "legal": null,
+      "description": "Foreclosure Date: 2026-02-26 | Substitute Trustee sale. Property subject to Second Lien Deed of Trust to Housing Fund, Inc. in amount of $12,000.00. Sale at front steps of historic Davidson County Courthouse, One Public Square, Nashville, Tennessee 37201 at 10:00 a.m.",
+      "fetched_at": "2026-02-16T11:25:00.986Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-503295",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "December 2",
+      "owner": "Torrey Cordell Harris",
+      "grantee": null,
+      "prop_address": "2211B 24th Ave N",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37208",
+      "mail_address": "2211 B 24TH AVE N",
+      "mail_city": "NASHVILLE",
+      "mail_state": "TN",
+      "mail_zip": "37208",
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(gloy225f4ytbpuu0qo1v4mzu))/Details.aspx?SID=gloy225f4ytbpuu0qo1v4mzu&ID=503295",
+      "legal": "081 02 2Q 002.00",
+      "description": "Foreclosure Date: March 19, 2026 | Sale location: Historic Davidson County Courthouse, 1 Public Square, Nashville, Tennessee, 37201 at 11:00 AM. Trustee: Mickel Law Firm, P.A., File No. 109724-1",
+      "fetched_at": "2026-02-16T11:26:05.617Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-521369",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "April 29, ",
+      "owner": "Darnell Gooch",
+      "grantee": null,
+      "prop_address": "4998 Tranham Road",
+      "prop_city": "Whites Creek",
+      "prop_state": "TN",
+      "prop_zip": "37189",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521369",
+      "legal": "031-00-0-103.00",
+      "description": "Foreclosure Date: April 29, 2026 | POSSIBLE_DUPLICATE",
+      "fetched_at": "2026-04-12T16:30:37.590Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-521361",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "May 28, 20",
+      "owner": "Sandra Wheeler",
+      "grantee": null,
+      "prop_address": "548 Brewer Drive",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37211",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521361",
+      "legal": "161 03 0 002.00",
+      "description": "Foreclosure Date: May 28, 2026 | Don Wheeler AKA Maynard Donald Wheeler died 04/23/2003 leaving Sandra Wheeler as surviving tenant by the entirety.",
+      "fetched_at": "2026-04-12T16:33:17.201Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-521359",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "March 23, ",
+      "owner": "Krista L. Stooksbury",
+      "grantee": null,
+      "prop_address": "141 Antler Ridge Circle",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37214",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521359",
+      "legal": "122 01 0A 434.00",
+      "description": "Foreclosure Date: May 14, 2026 | Sale time: 11:00 AM at Historic Davidson County Courthouse, 1 Public Square, Nashville, Tennessee, 37201. Substitute Trustee: Mickel Law Firm, P.A. File No. 110040-1",
+      "fetched_at": "2026-04-12T16:34:16.181Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-521356",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "March 22, ",
+      "owner": "Darnykka Daniel McCray",
+      "grantee": null,
+      "prop_address": "565 Mill Station Drive",
+      "prop_city": "Nashville",
+      "prop_state": "TN",
+      "prop_zip": "37207",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521356",
+      "legal": null,
+      "description": "Foreclosure Date: April 16, 2026 | Default on Deed of Trust dated February 19, 2016. Sale at Historic Davidson County Courthouse One Public Square, Nashville, TN 37201 on or about 11:00 AM. Lot No. 38 on Plan of Claymille Station Phase Three.",
+      "fetched_at": "2026-04-12T16:36:07.287Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
+    },
+    {
+      "doc_num": "TNFC-521354",
+      "doc_type": "FCNOTICE",
+      "cat_label": "Foreclosure Notice",
+      "county": "Davidson",
+      "filed": "May 14, 20",
+      "owner": "Katona K. Greer",
+      "grantee": null,
+      "prop_address": "4009 Chase Point Place",
+      "prop_city": "Joelton",
+      "prop_state": "TN",
+      "prop_zip": "37080",
+      "mail_address": null,
+      "mail_city": null,
+      "mail_state": null,
+      "mail_zip": null,
+      "amount": null,
+      "clerk_url": "https://www.foreclosurestn.com/(S(tjslvqgs0kx3yyvuz2f53jab))/Details.aspx?SID=tjslvqgs0kx3yyvuz2f53jab&ID=521354",
+      "legal": "02202002600",
+      "description": "Foreclosure Date: May 14, 2026 | Sale at 11:00AM local time at south main door, Davidson County Courthouse, Metro Courthouse, 1 Public Square, Nashville, Tennessee. Deed of Trust executed November 22, 2017 at Instrument No. 20171127-0120596. Substitute Trustee: LLG Trustee TN LLC. Party Entitled to Enforce: Newrez LLC d/b/a Shellpoint Mortgage Servicing. File No. 25-125815.",
+      "fetched_at": "2026-04-12T16:37:17.158Z",
+      "_source_label": "foreclosurestn.com",
+      "needs_enrichment": false,
+      "needs_review": false,
+      "score": 45,
+      "flags": [
+        "Foreclosure notice"
+      ]
     },
     {
       "doc_num": "202604060026987",
@@ -11497,7 +13055,8 @@
       ],
       "score": 40,
       "_source_county": "Davidson County Clerk",
-      "_inst_type_raw": "LIENSTL"
+      "_inst_type_raw": "LIENSTL",
+      "county": "Davidson"
     }
   ]
 }
